@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Metadata } from "next";
 import { CATEGORIES } from "@/lib/categories";
 import { SITE_NAME } from "@/lib/site";
@@ -29,16 +30,28 @@ export default function CategoriesIndexPage() {
             <Link
               key={category.slug}
               href={`/categories/${category.slug}`}
-              className="glass-panel group rounded-2xl p-6 transition-colors hover:border-amber-400/40"
+              className="glass-panel group overflow-hidden rounded-2xl transition-colors hover:border-amber-400/40"
             >
-              <div className="mb-4 flex h-11 w-11 items-center justify-center rounded-xl bg-amber-400/10 text-amber-300">
-                <Icon className="h-5 w-5" />
+              <div className="relative h-36 w-full">
+                <Image
+                  src={`/products/${category.slug}.jpg`}
+                  alt={category.label}
+                  fill
+                  sizes="(min-width: 1024px) 33vw, 50vw"
+                  className="object-cover"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-charcoal-900 to-transparent" />
+                <div className="absolute bottom-3 left-3 flex h-9 w-9 items-center justify-center rounded-lg bg-charcoal-900/70 text-amber-300 backdrop-blur">
+                  <Icon className="h-4 w-4" />
+                </div>
               </div>
-              <h2 className="mb-1 text-base font-semibold text-slate-200">{category.label}</h2>
-              <p className="text-sm text-slate-400">{category.description}</p>
-              <p className="mt-3 text-xs font-medium text-amber-300 opacity-0 transition-opacity group-hover:opacity-100">
-                {category.products.length} products →
-              </p>
+              <div className="p-6">
+                <h2 className="mb-1 text-base font-semibold text-slate-200">{category.label}</h2>
+                <p className="text-sm text-slate-400">{category.description}</p>
+                <p className="mt-3 text-xs font-medium text-amber-300 opacity-0 transition-opacity group-hover:opacity-100">
+                  {category.products.length} products →
+                </p>
+              </div>
             </Link>
           );
         })}
