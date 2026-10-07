@@ -5,7 +5,7 @@ import Link from "next/link";
 import { AnimatePresence, motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { CATEGORIES } from "@/lib/categories";
+import type { Category } from "@/lib/categories";
 
 const NAV_LINKS = [
   { label: "Shop", href: "/categories" },
@@ -15,7 +15,11 @@ const NAV_LINKS = [
   { label: "Get a Quote", href: "/#quote" },
 ];
 
-export function SiteHeader() {
+interface SiteHeaderProps {
+  categories: Pick<Category, "slug" | "label">[];
+}
+
+export function SiteHeader({ categories }: SiteHeaderProps) {
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -107,7 +111,7 @@ export function SiteHeader() {
                 Shop by Category
               </p>
               <div className="grid grid-cols-2 gap-1">
-                {CATEGORIES.map((category) => (
+                {categories.map((category) => (
                   <Link
                     key={category.slug}
                     href={`/categories/${category.slug}`}

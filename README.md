@@ -31,9 +31,19 @@ Open [http://localhost:3000](http://localhost:3000).
 ```
 src/
   app/
-    page.tsx              # composes every home-page section
-    api/quote/route.ts    # RFQ submission endpoint
-    categories/           # /categories (index) and /categories/[slug] (detail)
+    (site)/                  # public marketing site (shares SiteHeader/SiteFooter layout)
+      page.tsx                 # composes every home-page section
+      categories/              # /categories (index) and /categories/[slug] (detail)
+    admin/                    # staff-only backend (see "Admin backend" below)
+      login/page.tsx            # staff sign-in
+      (dashboard)/               # everything else under /admin, auth-gated
+        page.tsx                   # product list
+        products/[id]/             # edit one product (name, price, description, photo)
+      actions.ts                 # login/logout Server Actions
+      products/actions.ts        # updateProduct Server Action (+ image upload)
+    api/quote/route.ts        # RFQ submission endpoint
+  proxy.ts                  # Next.js proxy (middleware): refreshes auth session,
+                             # gates /admin/* routes — see src/lib/supabase/middleware.ts
   components/
     HeroCinematic.tsx       # video background, parallax, split-text headline
     Scene3D.tsx              # home-page R3F canvas: fallback mesh / GLTF, hotspots, finish color
@@ -47,9 +57,14 @@ src/
     product-shapes.tsx       # procedural 3D archetypes (chair, table, bed, ...)
     SiteHeader.tsx / SiteFooter.tsx
   lib/
-    categories.ts      # category + product data (pricing, 3D shape, images)
+    categories.ts      # static seed/fallback catalog data + types
+    catalog.ts          # reads from Supabase when configured, else falls back to categories.ts
+    supabase/            # browser/server/middleware Supabase clients
     quote-data.ts      # room types, grades, add-ons, pricing logic
     utils.ts            # `cn()` class helper
+supabase/
+  schema.sql          # run once in the Supabase SQL editor: tables, RLS, storage bucket
+  seed.sql             # run once after schema.sql: populates the current catalog
 public/
   videos/README.md       # hero video spec + ffmpeg compression commands
   models/README.md       # GLTF/GLB model spec + wiring instructions (home-page viewer)
@@ -98,6 +113,64 @@ to the requester.
 
 To switch to a CRM (HubSpot, Salesforce) instead of/in addition to email,
 add a second call inside the `POST` handler in `route.ts`.
+
+## Admin backend
+
+Staff can edit a product's name, description, price, and photo from `/admin`
+without touching code — changes save straight to a Supabase Postgres database
+and show up on the live site within seconds (no rebuild/redeploy needed).
+
+**Without Supabase configured**, the public site runs fine off the static
+catalog in `src/lib/categories.ts`, and `/admin/login` shows a clear
+"not connected yet" message instead of crashing.
+
+### Setup
+
+1. Create a free project at [supabase.com](https://supabase.com).
+2. In the Supabase dashboard's **SQL Editor**, run
+   [`supabase/schema.sql`](supabase/schema.sql), then
+   [`supabase/seed.sql`](supabase/seed.sql) (populates the same 12
+   categories / 48 products currently in `categories.ts`).
+3. In **Project Settings → API**, copy the Project URL and the `anon`
+   public key into `.env.local` (copy `.env.example` first):
+   ```
+   NEXT_PUBLIC_SUPABASE_URL=
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=
+   ```
+4. Create staff logins in **Authentication → Users → Add user** (email +
+   password). There's no public sign-up page — this is the only way to
+   create an account, by design.
+5. Sign in at `/admin`.
+
+### How it works
+
+- `src/lib/catalog.ts` is the single read path every page uses
+  (`getCategories`, `getCategoryBySlug`, `getProductById`): it queries
+  Supabase when configured, otherwise returns the static data from
+  `categories.ts` untouched. Nothing on the public site needed to change
+  when the admin backend was added — it was already going through this layer.
+- **Auth**: `src/proxy.ts` (Next's middleware convention) redirects any
+  `/admin/*` request without a valid Supabase session to `/admin/login`, and
+  redirects an already-signed-in visitor away from `/admin/login`. Any
+  authenticated user counts as staff — there's no separate roles table,
+  matching "admin-invited accounts only."
+- **Writes**: `src/app/admin/products/actions.ts` is a Server Action that
+  validates the form, optionally uploads a new photo to the `product-images`
+  Storage bucket, updates the `products` row, and calls `revalidatePath()` so
+  the change is visible immediately.
+- **Images**: uploaded photos replace `image_url` in the database with a
+  Supabase Storage URL (`next.config.ts` allows that domain for
+  `next/image`). The original `/products/items/*.jpg` files stay as the
+  seeded defaults until replaced.
+
+### Not yet built
+
+Scoped out for now — ask if you want any of these:
+- Editing category info (name/description/photo) or adding/removing
+  categories or products (today: edit existing products only).
+- Multiple staff roles/permissions (today: any staff login can edit anything).
+- Editing a product's 3D shape/color (today: set at seed time, not
+  admin-editable).
 
 ## Performance notes
 

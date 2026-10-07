@@ -2,10 +2,14 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { CATEGORIES } from "@/lib/categories";
+import type { Category } from "@/lib/categories";
 import { cn } from "@/lib/utils";
 
-export function CategoryNav() {
+interface CategoryNavProps {
+  categories: Pick<Category, "slug" | "label">[];
+}
+
+export function CategoryNav({ categories }: CategoryNavProps) {
   const pathname = usePathname();
 
   return (
@@ -14,7 +18,7 @@ export function CategoryNav() {
       className="sticky top-[72px] z-30 border-b border-slate-200/10 bg-charcoal-900/80 backdrop-blur"
     >
       <div className="scrollbar-hide mx-auto flex max-w-7xl gap-1 overflow-x-auto px-6 py-2 sm:px-10">
-        {CATEGORIES.map((category) => {
+        {categories.map((category) => {
           const href = `/categories/${category.slug}`;
           const active = pathname === href;
           return (

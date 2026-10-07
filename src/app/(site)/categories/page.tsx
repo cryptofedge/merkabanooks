@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
-import { CATEGORIES } from "@/lib/categories";
+import { getCategories } from "@/lib/catalog";
 import { SITE_NAME } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -9,7 +9,9 @@ export const metadata: Metadata = {
   description: "Browse furniture, facility, and maintenance supply categories.",
 };
 
-export default function CategoriesIndexPage() {
+export default async function CategoriesIndexPage() {
+  const CATEGORIES = await getCategories();
+
   return (
     <div className="mx-auto w-full max-w-7xl px-6 py-16 sm:px-10">
       <span className="text-xs font-semibold uppercase tracking-[0.2em] text-amber-400">

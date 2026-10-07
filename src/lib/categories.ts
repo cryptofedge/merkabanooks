@@ -16,6 +16,8 @@ import {
 import type { ShapeKind, ShapeVariant } from "@/components/product-shapes";
 
 export interface Product {
+  /** Supabase row id. Only present when sourced from the database (admin editing needs it). */
+  id?: string;
   slug: string;
   name: string;
   price: number;

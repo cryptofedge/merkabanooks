@@ -3,7 +3,7 @@ import Image from "next/image";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
-import { CATEGORIES, getCategory } from "@/lib/categories";
+import { getCategories, getCategoryBySlug } from "@/lib/catalog";
 import { SITE_NAME } from "@/lib/site";
 import { ProductGrid } from "@/components/ProductGrid";
 
@@ -11,13 +11,14 @@ interface CategoryPageProps {
   params: Promise<{ slug: string }>;
 }
 
-export function generateStaticParams() {
-  return CATEGORIES.map((category) => ({ slug: category.slug }));
+export async function generateStaticParams() {
+  const categories = await getCategories();
+  return categories.map((category) => ({ slug: category.slug }));
 }
 
 export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
   const { slug } = await params;
-  const category = getCategory(slug);
+  const category = await getCategoryBySlug(slug);
   if (!category) return {};
   return {
     title: `${category.label} | ${SITE_NAME}`,
@@ -27,7 +28,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
 
 export default async function CategoryPage({ params }: CategoryPageProps) {
   const { slug } = await params;
-  const category = getCategory(slug);
+  const category = await getCategoryBySlug(slug);
   if (!category) notFound();
 
   const Icon = category.icon;
