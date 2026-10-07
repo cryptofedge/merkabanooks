@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { gsap } from "gsap";
 import { SplitText } from "gsap/SplitText";
+import Link from "next/link";
 import { ArrowRight, PlayCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { SITE_NAME } from "@/lib/site";
@@ -149,7 +150,8 @@ export function HeroCinematic({
         </p>
 
         <div className="flex flex-wrap items-center gap-4 pt-2">
-          <button
+          <Link
+            href="/#quote"
             className={cn(
               "btn-gradient-border group flex items-center gap-2 rounded-full bg-amber-500 px-6 py-3",
               "text-sm font-semibold text-charcoal-950 transition-colors hover:bg-amber-400 sm:text-base"
@@ -157,12 +159,15 @@ export function HeroCinematic({
           >
             Request a Quote
             <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
-          </button>
+          </Link>
 
-          <button className="btn-gradient-border flex items-center gap-2 rounded-full border border-slate-200/20 bg-charcoal-900/40 px-6 py-3 text-sm font-semibold text-slate-200 backdrop-blur transition-colors hover:border-amber-300/40 sm:text-base">
+          <Link
+            href="/#configurator"
+            className="btn-gradient-border flex items-center gap-2 rounded-full border border-slate-200/20 bg-charcoal-900/40 px-6 py-3 text-sm font-semibold text-slate-200 backdrop-blur transition-colors hover:border-amber-300/40 sm:text-base"
+          >
             <PlayCircle className="h-4 w-4" />
             Explore Capabilities
-          </button>
+          </Link>
         </div>
       </motion.div>
 
