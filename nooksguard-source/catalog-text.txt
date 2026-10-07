@@ -1,0 +1,2706 @@
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MASTER CATALOG  /  BRAND INTRODUCTION
+ABOUT NOOKSGUARD
+Verified security, engineered for real-world decisions.
+Nooksguard delivers integrated security inspection and counter-surveillance solutions for people, baggage, vehicles,
+field response and information protection.
+Our portfolio is built around one operating principle: security decisions should be based on visible evidence, verified
+detection and confirmed system performance.
+VERIFIED
+Reviewable images, measurable detection an
+d clearly confirmed configurations.
+ENGINEERED
+Purpose-built product families for checkpo
+ints, secure facilities and mobile operati
+ons.
+GLOBAL
+International-market presentation, project
+ support and practical deployment guidance
+.
+VERIFIED PROTECTION
+Confirmed, Not Assumed.
+www.Nooksguard.com  |  (516) 980-2444 PAGE 03
+
+===== PAGE 4 =====
+NOOKSGUARD SECURITY SOLUTIONS PRODUCT CATALOG  /  US MARKET
+COMPACT X-RAY INSPECTION
+NGZ-5030C
+X-RAY SECURITY INSPECTION EQUIPMENT
+A compact screening solution for quick, non-intrusive
+inspection of bags, parcels and hand luggage.
+500 x 300 mm 40 mm STEEL 0.22 m/s BELT
+Nooksguard compact screening system.
+DESIGNED FOR DAILY CHECKPOINTS
+Reliable screening for small parcels and carry-on items.
+Suitable for government agencies, transportation hubs, logistics, courts, factories, schools, hospitals, stadiums and exhibition venues.
+CH 500 x 300 mm PEN 40 mm steel RES AWG38 SPD 0.22 m/s DIS 21.5 in display WT 245 kg
+www.Nooksguard.com  |  Call (516) 980-2444  |  Product information based on source technical document.
+
+===== PAGE 5 =====
+NOOKSGUARD  |  NGZ-5030C FEATURES & TECHNICAL DATA
+IMAGE INTELLIGENCE
+Clearer decisions at the checkpoint.
+A fully digital ASIC-based design with modular internal circuitry supports
+stable operation, strong anti-interference capability and convenient
+maintenance.
+COLOR / B&W MODES
+Material differentiation tools
+IMAGE ENHANCEMENT
+Zoom and pseudo-color display
+Image processing
+Color/B&W, local enhancement, high/low pass, organic/inorganic removal, reverse color,
+brightening, darkening, gray sweep, pseudo-color and image restoration.
+System operations
+Boot self-test, multi-level user management, image storage/export, TIP management,
+diagnostic tools, image mirroring, 1–64× zoom, magnifier, operator training, remote
+operation software and one-click shutdown.
+Configuration
+Custom function modules and ports can be configured according to customer requirements,
+including AI intelligent image recognition / dangerous goods alarm capability.
+TECHNICAL DATA
+Key specifications
+Model: NGZ-5030C
+Channel size 500 x 300 mm
+Device size 1475 × 784 × 1100 mm
+Conveyor height 660 mm
+Conveyor speed 0.22 m/s
+Penetration 40 mm steel plate
+Line resolution AWG38 (Φ0.102 mm)
+Spatial resolution H 1.0 mm / V 1.0 mm
+X-ray source 140-160 kV; 0.5-1.25 mA
+Display 21.5 in; 1920 × 1080P
+Power AC220V 50Hz; 500 W
+Noise <55 dB at 1 m
+Weight 245 kg
+RADIATION SAFETY
+Leakage dose <0.5 μSv at 50 mm from enclosure; single inspection dose <5 μGy/h.
+NOOKSGUARD  |  www.Nooksguard.com  |  (516) 980-2444  |  NGZ-5030C
+
+===== PAGE 6 =====
+NOOKSGUARD SECURITY SOLUTIONS PRODUCT CATALOG  /  US MARKET
+COMPACT X-RAY INSPECTION
+NGZ-6550C
+X-RAY SECURITY INSPECTION EQUIPMENT
+A compact screening solution for quick, non-intrusive
+inspection of briefcases, mail parcels and hand luggage.
+650 x 500 mm 40 mm STEEL 0.22 m/s BELT
+Nooksguard NGZ-6550C inspection system.
+DESIGNED FOR DAILY CHECKPOINTS
+Reliable screening for briefcases and small parcels.
+Suitable for government agencies, transportation hubs, logistics companies, courts, procuratorates, prisons, embassies, factories, schools, hospitals, stadiums, exhibition halls
+and entertainment venues.
+CH 650 x 500 mm PEN 40 mm steel RES AWG38 SPD 0.22 m/s DIS 21.5 in display WT 300 kg
+www.Nooksguard.com  |  Call (516) 980-2444  |  Product information based on source technical document.
+
+===== PAGE 7 =====
+NOOKSGUARD  |  NGZ-6550C FEATURES & TECHNICAL DATA
+IMAGE INTELLIGENCE
+Clearer decisions at the checkpoint.
+A fully digital ASIC-based design with modular internal circuitry supports
+stable operation, strong anti-interference capability and convenient
+maintenance.
+MATERIAL DIFFERENTIATION
+Color / B&W imaging modes
+IMAGE ENHANCEMENT
+Zoom and pseudo-color display
+Image processing
+Color/B&W, local enhancement, high/low pass, organic/inorganic removal, reverse color,
+brightening, darkening, gray sweep, magnification, pseudo-color and image restoration.
+System operations
+Boot self-test, multi-level user management, image storage/export, TIP management, curve
+and keyboard diagnosis, device information query, image mirroring, 1-64x zoom, magnifier,
+operator training, remote operation software and one-click shutdown.
+Configuration
+Custom function modules and ports can be configured according to customer requirements,
+including AI intelligent image recognition / dangerous goods alarm capability.
+TECHNICAL DATA
+Key specifications
+Model: NGZ-6550C
+Channel size 650 x 500 mm
+Device size 1876 x 934 x 1300 mm
+Conveyor height 660 mm
+Conveyor speed 0.22 m/s
+Penetration 40 mm steel plate
+Line resolution AWG38 (dia 0.102 mm)
+Spatial resolution H 1.0 mm / V 1.0 mm
+X-ray source 140-160 kV; 0.5-1.25 mA
+Display 21.5 in; 1920 x 1080P
+Power AC220V 50Hz; 500 W
+Noise <55 dB at 1 m
+Weight 300 kg
+RADIATION SAFETY
+Leakage dose <0.5 uSv at 50 mm from enclosure; single inspection dose <5 uGy/h.
+NOOKSGUARD  |  www.Nooksguard.com  |  (516) 980-2444  |  NGZ-6550C
+
+===== PAGE 8 =====
+NOOKSGUARD SECURITY SOLUTIONS PRODUCT CATALOG  /  US MARKET
+COMPACT X-RAY INSPECTION
+NGZ-8065C
+X-RAY SECURITY INSPECTION EQUIPMENT
+A mid-capacity screening solution for quick, non-intrusive
+inspection of handbags, parcels and express items.
+800 x 650 mm 38 mm STEEL 0.22 m/s BELT
+Nooksguard NGZ-8065C inspection system.
+DESIGNED FOR DAILY CHECKPOINTS
+Dependable screening for handbags and express parcels.
+Suitable for government agencies, transportation hubs, logistics companies, courts, procuratorates, prisons, embassies, factories, schools, hospitals, stadiums, exhibition halls
+and entertainment venues.
+CH 800 x 650 mm PEN 38 mm steel RES AWG38 SPD 0.22 m/s DIS 21.5 in display WT 530 kg
+www.Nooksguard.com  |  Call (516) 980-2444  |  Product information based on source technical document.
+
+===== PAGE 9 =====
+NOOKSGUARD  |  NGZ-8065C FEATURES & TECHNICAL DATA
+IMAGE INTELLIGENCE
+Clearer decisions at the checkpoint.
+A fully digital ASIC-based design with modular internal circuitry supports
+stable operation, strong anti-interference capability and convenient
+maintenance.
+MATERIAL DIFFERENTIATION
+Color / B&W imaging modes
+IMAGE ENHANCEMENT
+Zoom and pseudo-color display
+Image processing
+Color/B&W, local enhancement, high/low pass, organic/inorganic removal, reverse color,
+brightening, darkening, gray sweep, magnification, pseudo-color and image restoration.
+System operations
+Boot self-test, multi-level user management, image storage/export, TIP management, curve
+and keyboard diagnosis, device information query, image mirroring, 1-64x zoom, magnifier,
+operator training, remote operation software and one-click shutdown.
+Configuration
+Custom function modules and ports can be configured according to customer requirements,
+including AI intelligent image recognition / dangerous goods alarm capability.
+TECHNICAL DATA
+Key specifications
+Model: NGZ-8065C
+Channel size 800 x 650 mm
+Device size 2540 x 1160 x 1420 mm
+Conveyor height 310 mm
+Conveyor speed 0.22 m/s
+Penetration 38 mm steel plate
+Line resolution AWG38 (dia 0.102 mm)
+Spatial resolution H 1.0 mm / V 1.0 mm
+X-ray source 140-160 kV; 0.5-1.25 mA
+Display 21.5 in; 1920 x 1080P
+Power AC220V 50Hz; 500 W
+Noise <55 dB at 1 m
+Weight 530 kg
+RADIATION SAFETY
+Leakage dose <0.5 uSv at 50 mm from enclosure; single inspection dose <5 uGy/h.
+NOOKSGUARD  |  www.Nooksguard.com  |  (516) 980-2444  |  NGZ-8065C
+
+===== PAGE 10 =====
+NOOKSGUARD SECURITY SOLUTIONS PRODUCT CATALOG  /  US MARKET
+COMPACT X-RAY INSPECTION
+NGZ-10080C
+X-RAY SECURITY INSPECTION EQUIPMENT
+A high-throughput screening solution for quick, non-intrusive
+inspection of larger bags and cargo parcels.
+1000 x 800 mm 42 mm STEEL 0.22 m/s BELT
+Nooksguard NGZ-10080C inspection system.
+DESIGNED FOR DAILY CHECKPOINTS
+High-throughput screening for larger bags and cargo.
+Suitable for government agencies, transportation hubs, logistics companies, courts, procuratorates, prisons, embassies, factories, schools, hospitals, stadiums, exhibition halls
+and entertainment venues.
+CH 1000 x 800 mm PEN 42 mm steel RES AWG38 SPD 0.22 m/s DIS 21.5 in display WT 650 kg
+www.Nooksguard.com  |  Call (516) 980-2444  |  Product information based on source technical document.
+
+===== PAGE 11 =====
+NOOKSGUARD  |  NGZ-10080C FEATURES & TECHNICAL DATA
+IMAGE INTELLIGENCE
+Clearer decisions at the checkpoint.
+A fully digital ASIC-based design with modular internal circuitry supports
+stable operation, strong anti-interference capability and convenient
+maintenance.
+MATERIAL DIFFERENTIATION
+Color / B&W imaging modes
+IMAGE ENHANCEMENT
+Zoom and pseudo-color display
+Image processing
+Color/B&W, local enhancement, high/low pass, organic/inorganic removal, reverse color,
+brightening, darkening, gray sweep, magnification, pseudo-color and image restoration.
+System operations
+Boot self-test, multi-level user management, image storage/export, TIP management, curve
+and keyboard diagnosis, device information query, image mirroring, 1-64x zoom, magnifier,
+operator training, remote operation software and one-click shutdown.
+Configuration
+Custom function modules and ports can be configured according to customer requirements,
+including AI intelligent image recognition / dangerous goods alarm capability.
+TECHNICAL DATA
+Key specifications
+Model: NGZ-10080C
+Channel size 1000 x 800 mm
+Device size 2890 x 1360 x 1560 mm
+Conveyor height 310 mm
+Conveyor speed 0.22 m/s
+Penetration 42 mm steel plate
+Line resolution AWG38 (dia 0.102 mm)
+Spatial resolution H 1.0 mm / V 1.0 mm
+X-ray source 140-160 kV; 0.5-1.25 mA
+Display 21.5 in; 1920 x 1080P
+Power AC220V 50Hz; 500 W
+Noise <55 dB at 1 m
+Weight 650 kg
+RADIATION SAFETY
+Leakage dose <0.5 uSv at 50 mm from enclosure; single inspection dose <5 uGy/h.
+NOOKSGUARD  |  www.Nooksguard.com  |  (516) 980-2444  |  NGZ-10080C
+
+===== PAGE 12 =====
+NOOKSGUARD SECURITY SOLUTIONS PRODUCT CATALOG  /  US MARKET
+COMPACT X-RAY INSPECTION
+NGZ-100100C
+X-RAY SECURITY INSPECTION EQUIPMENT
+A large-channel screening solution for quick, non-intrusive
+inspection of oversized bags and cargo.
+1000 x 1000 mm 38 mm STEEL 0.22 m/s BELT
+Nooksguard NGZ-100100C inspection system.
+DESIGNED FOR DAILY CHECKPOINTS
+Large-channel screening for oversized bags and cargo.
+Suitable for government agencies, transportation hubs, logistics companies, courts, procuratorates, prisons, embassies, factories, schools, hospitals, stadiums, exhibition halls
+and entertainment venues.
+CH 1000 x 1000 mm PEN 38 mm steel RES AWG38 SPD 0.22 m/s DIS 21.5 in display WT 750 kg
+www.Nooksguard.com  |  Call (516) 980-2444  |  Product information based on source technical document.
+
+===== PAGE 13 =====
+NOOKSGUARD  |  NGZ-100100C FEATURES & TECHNICAL DATA
+IMAGE INTELLIGENCE
+Clearer decisions at the checkpoint.
+A fully digital ASIC-based design with modular internal circuitry supports
+stable operation, strong anti-interference capability and convenient
+maintenance.
+MATERIAL DIFFERENTIATION
+Color / B&W imaging modes
+IMAGE ENHANCEMENT
+Zoom and pseudo-color display
+Image processing
+Color/B&W, local enhancement, high/low pass, organic/inorganic removal, reverse color,
+brightening, darkening, gray sweep, magnification, pseudo-color and image restoration.
+System operations
+Boot self-test, multi-level user management, image storage/export, TIP management, curve
+and keyboard diagnosis, device information query, image mirroring, 1-64x zoom, magnifier,
+operator training, remote operation software and one-click shutdown.
+Configuration
+Custom function modules and ports can be configured according to customer requirements,
+including AI intelligent image recognition / dangerous goods alarm capability.
+TECHNICAL DATA
+Key specifications
+Model: NGZ-100100C
+Channel size 1000 x 1000 mm
+Device size 3300 x 1360 x 1760 mm
+Conveyor height 310 mm
+Conveyor speed 0.22 m/s
+Penetration 38 mm steel plate
+Line resolution AWG38 (dia 0.102 mm)
+Spatial resolution H 1.0 mm / V 1.0 mm
+X-ray source 140-160 kV; 0.5-1.25 mA
+Display 21.5 in; 1920 x 1080P
+Power AC220V 50Hz; 500 W
+Noise <55 dB at 1 m
+Weight 750 kg
+RADIATION SAFETY
+Leakage dose <0.5 uSv at 50 mm from enclosure; single inspection dose <5 uGy/h.
+NOOKSGUARD  |  www.Nooksguard.com  |  (516) 980-2444  |  NGZ-100100C
+
+===== PAGE 14 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGVJ SERIES  ·  CATALOG 2026
+MODEL NAMING GUIDE
+02  HOW TO READ AN NGVJ MODEL NUMBER
+MODEL NAMING GUIDE
+Prefix >> [ Tunnel Size ] >> [ Function Suffix ]
+NGVJ 6550 D
+Brand 650x500mm tunnel Dual-View
+TUNNEL SIZE
+CODE OPENING (MM) TYPICAL USECODE OPENING (MM) TYPICAL USE
+5030 500x300 Handbags, mail
+6040 600x400 Backpacks
+6550 650x500 Carry-on bags
+7555 750x550 Large suitcases
+8065 800x650 Checked baggage
+100100 1000x1000 Pallets, cargo
+150180 1500x1800 Oversized freight
+FUNCTION SUFFIX
+SUFFIX CAPABILITY PENETRATION
+A Entry single-view 8 mm steel
+C High-penetration single-view 34 mm steel
+D Dual-View (2 sources) High (on request)
+F Triple-View (3 sources) Highest (on request)
+BK Backscatter + Transmission High (on request)
+5332 Compact desktop Entry
+VERIFIED PROTECTION - Confirmed, Not Assumed.  |  The Nooksguard Brand Promise 3 / 10
+
+===== PAGE 15 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGVJ SERIES  ·  CATALOG 2026
+TIER 1: DISCREET
+02  DISCREET
+Compact, quiet screening for everyday spaces.
+NGVJ5030A
+Entry Single-View
+NGVJ5030C
+High-Penetration
+NGVJ5332
+Compact Desktop
+NGVJ6040
+Entry Single-View
+NGVJ5030A SPECS
+Tunnel 500x300mm
+Penetration 8mm steel
+Speed 0.18 m/s
+NGVJ5030C SPECS
+Tunnel 500x300mm
+Penetration 34mm steel
+Speed 0.18 m/s
+NGVJ5332 SPECS
+Tunnel 530x320mm
+Penetration 22mm steel
+Type Desktop
+NGVJ6040 SPECS
+Tunnel 600x400mm
+Penetration 22mm steel
+Speed 0.2 m/s
+VERIFIED PROTECTION - Confirmed, Not Assumed.  |  The Nooksguard Brand Promise 4 / 10
+
+===== PAGE 16 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGVJ SERIES  ·  CATALOG 2026
+TIER 2: WORKHORSE / THROUGHPUT
+03  WORKHORSE / THROUGHPUT
+Dependable screening for higher-traffic checkpoints.
+NGVJ6550
+Workhorse
+NGVJ8065
+Throughput
+NGVJ100100
+Throughput
+NGVJ6550 SPECS
+Tunnel 650x500mm
+Penetration 28mm steel
+Speed 0.22 m/s
+NGVJ8065 SPECS
+Tunnel 800x650mm
+Penetration 30mm steel
+Speed 0.22 m/s
+NGVJ100100 SPECS
+Tunnel 1000x1000mm
+Penetration 32mm steel
+Speed 0.22 m/s
+VERIFIED PROTECTION - Confirmed, Not Assumed.  |  The Nooksguard Brand Promise 5 / 10
+
+===== PAGE 17 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGVJ SERIES  ·  CATALOG 2026
+TIER 3: ZERO-BLIND
+04  ZERO-BLIND
+Dual-source imaging that eliminates blind spots.
+NGVJ6040D
+Zero-Blind Dual-View
+NGVJ6550D
+Zero-Blind Dual-View
+NGVJ7555D
+Zero-Blind Dual-View
+NGVJ150180
+Heavy-Duty Freight
+NGVJ6040D SPECS
+Tunnel 600x400mm
+Sources 2 (Dual-View)
+Speed 0.2 m/s
+NGVJ6550D SPECS
+Tunnel 650x500mm
+Sources 2 (Dual-View)
+Speed 0.22 m/s
+NGVJ7555D SPECS
+Tunnel 750x550mm
+Sources 2 (Dual-View)
+Speed 0.22 m/s
+NGVJ150180 SPECS
+Tunnel 1500x1800mm
+Type Oversized freight
+Penetration High
+VERIFIED PROTECTION - Confirmed, Not Assumed.  |  The Nooksguard Brand Promise 6 / 10
+
+===== PAGE 18 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGVJ SERIES  ·  CATALOG 2026
+TIER 4: SPECIALIZED
+05  SPECIALIZED
+Triple-view and backscatter for advanced threat detection.
+NGVJ6550F
+Triple-View Specialized
+NGVJ-BK6040
+Backscatter Specialized
+NGVJ-BK7555
+Backscatter Specialized
+NGVJ150180
+Heavy-Duty Freight
+NGVJ6550F SPECS
+Tunnel 650x500mm
+Sources 3 (Triple-View)
+Penetration Highest
+NGVJ-BK6040 SPECS
+Tunnel 600x400mm
+Mode Backscatter+Transmission
+Penetration High
+NGVJ-BK7555 SPECS
+Tunnel 750x550mm
+Mode Backscatter+Transmission
+Penetration High
+NGVJ150180 SPECS
+Tunnel 1500x1800mm
+Type Oversized freight
+Penetration High
+VERIFIED PROTECTION - Confirmed, Not Assumed.  |  The Nooksguard Brand Promise 7 / 10
+
+===== PAGE 19 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGVJ SERIES  ·  CATALOG 2026
+APPLICATION SCENARIOS
+07  THE RIGHT MODEL FOR EVERY SECURITY ENVIRONMENT
+APPLICATION SCENARIOS
+HOTEL / OFFICE / RETAIL
+Compact, cost-effective, fast deployment
+NGVJ5030A - NGVJ5332 - NGVJ6040
+METRO / MALL / GOVERNMENT
+Reliable high-penetration checkpoint
+NGVJ6550 - NGVJ6550C
+COURIER / LOGISTICS
+Large opening, high throughput
+NGVJ8065 - NGVJ100100
+INTERNATIONAL AIRPORT / CUSTOMS
+Dual-view, no blind spots, ECAC/TSA-aligned
+NGVJ6550D - NGVJ7555D - NGVJ100100D
+COUNTER-TERRORISM / NARCOTICS
+Triple-view & backscatter for organic threats
+NGVJ6550F - NGVJ-BK6040 - NGVJ-BK7555
+OVERSIZED CARGO / FREIGHT
+Maximum tunnel size for bulk inspection
+NGVJ150180 - NGVJ100100D
+VERIFIED PROTECTION - Confirmed, Not Assumed.  |  The Nooksguard Brand Promise 8 / 10
+
+===== PAGE 20 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGVJ SERIES  ·  CATALOG 2026
+CORE TECHNOLOGY
+08  FIVE ENGINEERING ADVANTAGES THAT DEFINE EVERY NGVJ UNIT
+CORE TECHNOLOGY
+01 160 KV LEAD-BRASS GENERATOR
+Runs at full 0.5-1.6 mA current without overheating. Superior heat dissipation and longer source lifespan than budget pure-lead alternatives.
+02 DUAL-GRATING DETECTION SYSTEM
+High and low gratings work together to fully cover irregular shapes - luggage with wheels or protrusions - eliminating image distortion.
+03 INDUSTRY-LEADING RADIATION SAFETY
+Surface leakage <= 0.5 uSv/h. Point-by-point lead shielding. 0.5mm Pb lead curtains. Passing 1,000 parcels <= one CT scan.
+04 INTELLIGENT IMAGING SOFTWARE
+TIP (Threat Insertion) keeps operators alert. OTP (Operator Training Program). 3/7/24-bit color palette switching.
+05 HONEST SPECIFICATIONS
+Conservative real-world figures (<=1.0 mm spatial resolution). Every machine tested at exact parameters delivered - no demo-only tuning.
+VERIFIED PROTECTION - Confirmed, Not Assumed.  |  The Nooksguard Brand Promise 9 / 10
+
+===== PAGE 21 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+PRODUCT CATALOG  /  US MARKET
+MULTI-FUNCTIONAL FAST CT INSPECTION
+NGTS-620
+FAST CT LUGGAGE / OBJECT INSPECTION SYSTEM
+A compact, high-throughput CT inspection system for fast,
+non-intrusive screening of carry-on bags and small parcels.
+625 x 420 mm CHANNEL 0.3 M/S BELT AI RECOGNITION
+Nooksguard NGTS-620 CT inspection system.
+ADVANCED DUAL-ENERGY CT SCREENING
+See more. Screen faster. Trust every result.
+Suitable for airports, seaports, customs, courts, prisons, government buildings, embassies, large events, and other high-security checkpoints requiring fast, reliable CT-based
+screening.
+CH 625 x 420 mm PEN 30mm steel RES CT <2.5mm lp SPD 0.3 m/s DIS Dual 27in WT see spec
+www.Nooksguard.com  |  Call (516) 980-2444  |  NGTS-620 multi-functional fast CT inspection system.
+
+===== PAGE 22 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+FEATURES & TECHNICAL DATA
+INTELLIGENT DETECTION TECHNOLOGY
+Confident screening decisions.
+Independent DR and CT detection systems generate 3D color, DR and CT
+slice images, giving operators multiple confirmation views for every scanned
+item.
+3D COLOR IMAGE
+360-degree rotation by material
+DR / CT SLICE VIEW
+High-definition 2D inspection
+Automatic explosives/drugs detection
+Dual-energy CT imaging obtains density and effective atomic number information to
+automatically detect a wide range of explosives and drugs.
+Intelligent contraband detection
+Combines DR and CT images with AI deep learning technology to intelligently identify
+knives, guns and other contraband items.
+HD color 3D and CT slice imaging
+Generates high-definition 3D images that rotate 360 degrees, displayed in different colors
+by material property, alongside 2D CT slice views.
+TECHNICAL DATA
+Key specifications
+Model: NGTS-620
+Channel size 625 x 420 mm
+Max luggage size 2000 x 620 x 420 mm
+Belt load 200 kg (evenly distributed)
+Conveyor speed 0.2-0.3 m/s (adjustable)
+DR penetration >=30 mm steel plate
+CT spatial resolution better than 2.5mm line pairs
+DR / CT tube voltage 160 kV / 160 kV
+Radiation leakage <1 uGy/h at 5cm from enclosure
+Display Dual 27in, up to 1920x1080
+Image storage >=100,000 images
+Working environment 0C~40C, 5%~95% RH
+Power supply AC220V (-15%~+10%), 50/60Hz
+Overall dimensions 3770 x 1340 x 1665 mm
+RADIATION SAFETY
+Leakage dose rate close to natural background, meeting international safety standards.
+www.Nooksguard.com  |  Call (516) 980-2444  |  NGTS-620
+
+===== PAGE 23 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+PRODUCT CATALOG  /  US MARKET
+MULTI-FUNCTIONAL FAST CT INSPECTION
+NGTS-750
+FAST CT LUGGAGE / OBJECT INSPECTION SYSTEM
+A high-speed CT inspection system purpose-built for airport and
+high-traffic checkpoint screening at industry-leading belt speed.
+754 x 412 mm CHANNEL 0.3 M/S BELT AI RECOGNITION
+Nooksguard NGTS-750 CT inspection system.
+ADVANCED DUAL-ENERGY CT SCREENING
+See more. Screen faster. Trust every result.
+Suitable for airports, seaports, customs, courts, prisons, government buildings, embassies, large events, and other high-security checkpoints requiring fast, reliable CT-based
+screening.
+CH 754 x 412 mm PEN 30mm steel RES CT <2.5mm lp SPD 0.3 m/s DIS Dual 27in WT see spec
+www.Nooksguard.com  |  Call (516) 980-2444  |  NGTS-750 multi-functional fast CT inspection system.
+
+===== PAGE 24 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+FEATURES & TECHNICAL DATA
+INTELLIGENT DETECTION TECHNOLOGY
+Confident screening decisions.
+Independent DR and CT detection systems generate 3D color, DR and CT
+slice images, giving operators multiple confirmation views for every scanned
+item.
+3D COLOR IMAGE
+360-degree rotation by material
+DR / CT SLICE VIEW
+High-definition 2D inspection
+Automatic explosives/drugs detection
+Dual-energy CT imaging obtains density and effective atomic number information to
+automatically detect a wide range of explosives and drugs.
+Intelligent contraband detection
+Combines DR and CT images with AI deep learning technology to intelligently identify
+knives, guns and other contraband items.
+HD color 3D and CT slice imaging
+Generates high-definition 3D images that rotate 360 degrees, displayed in different colors
+by material property, alongside 2D CT slice views.
+TECHNICAL DATA
+Key specifications
+Model: NGTS-750
+Channel size 754 x 412 mm
+Max luggage size 2000 x 750 x 410 mm
+Belt load 200 kg (evenly distributed)
+Conveyor speed 0.3 m/s (industry-leading)
+DR penetration >=30 mm steel plate
+CT spatial resolution better than 2.5mm line pairs
+DR / CT tube voltage 160 kV / 160 kV
+Radiation leakage <1 uGy/h at 5cm from enclosure
+Display Dual 27in, up to 1920x1080
+Image storage >=100,000 images
+Working environment 0C~40C, 5%~95% RH
+Power supply AC220V (-15%~+10%), 50/60Hz
+Overall dimensions 3190 x 1640 x 1720 mm
+RADIATION SAFETY
+Leakage dose rate close to natural background, meeting international safety standards.
+www.Nooksguard.com  |  Call (516) 980-2444  |  NGTS-750
+
+===== PAGE 25 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+PRODUCT CATALOG  /  US MARKET
+MULTI-FUNCTIONAL FAST CT INSPECTION
+NGTS-1000
+FAST CT LUGGAGE / OBJECT INSPECTION SYSTEM
+A large-channel CT inspection system for oversized luggage
+and cargo, combining independent DR and dual-energy CT
+detection.
+1000 x 600 mm CHANNEL 0.3 M/S BELT AI RECOGNITION
+Nooksguard NGTS-1000 CT inspection system.
+ADVANCED DUAL-ENERGY CT SCREENING
+See more. Screen faster. Trust every result.
+Suitable for airports, seaports, customs, courts, prisons, government buildings, embassies, large events, and other high-security checkpoints requiring fast, reliable CT-based
+screening.
+CH 1000 x 600 mm PEN 30mm steel RES CT <2.5mm lp SPD 0.3 m/s DIS Dual, up to 1080P WT see spec
+www.Nooksguard.com  |  Call (516) 980-2444  |  NGTS-1000 multi-functional fast CT inspection system.
+
+===== PAGE 26 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+FEATURES & TECHNICAL DATA
+INTELLIGENT DETECTION TECHNOLOGY
+Confident screening decisions.
+Independent DR and CT detection systems generate 3D color, DR and CT
+slice images, giving operators multiple confirmation views for every scanned
+item.
+3D COLOR IMAGE
+360-degree rotation by material
+DR / CT SLICE VIEW
+High-definition 2D inspection
+Automatic explosives/drugs detection
+Dual-energy CT imaging obtains density and effective atomic number information to
+automatically detect a wide range of explosives and drugs.
+Intelligent contraband detection
+Combines DR and CT images with AI deep learning technology to intelligently identify
+knives, guns and other contraband items.
+HD color 3D and CT slice imaging
+Generates high-definition 3D images that rotate 360 degrees, displayed in different colors
+by material property, alongside 2D CT slice views.
+TECHNICAL DATA
+Key specifications
+Model: NGTS-1000
+Channel size 1000 x 600 mm
+Max luggage size 2000 x 1000 x 600 mm
+Belt load 200 kg (evenly distributed)
+Conveyor speed 0.25-0.3 m/s (adjustable)
+DR penetration >=30 mm steel plate
+CT spatial resolution better than 2.5mm line pairs
+Detector system Independent DR + dual-energy CT
+Tube voltage 180 kV
+Radiation leakage <1 uGy/h at 5cm from enclosure
+Display Dual screen, up to 1920x1080
+Image storage >=100,000 images
+Working environment 0C~40C, 5%~95% RH
+Power supply AC380V (-15%~+10%)
+Overall dimensions 3295 x 1980 x 2090 mmRADIATION SAFETY
+Leakage dose rate close to natural background, meeting international safety standards.
+www.Nooksguard.com  |  Call (516) 980-2444  |  NGTS-1000
+
+===== PAGE 27 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+PRODUCT CATALOG  /  US MARKET
+MULTI-FUNCTIONAL FAST CT INSPECTION
+NGTS-1000E
+FAST CT LUGGAGE / OBJECT INSPECTION SYSTEM
+The flagship large-channel CT system with the industry's
+highest belt speed, engineered for maximum-throughput cargo
+and luggage screening.
+1000 x 600 mm CHANNEL 0.5 M/S BELT AI RECOGNITION
+Nooksguard NGTS-1000E CT inspection system.
+ADVANCED DUAL-ENERGY CT SCREENING
+See more. Screen faster. Trust every result.
+Suitable for airports, seaports, customs, courts, prisons, government buildings, embassies, large events, and other high-security checkpoints requiring fast, reliable CT-based
+screening.
+CH 1000 x 600 mm PEN 30mm steel RES CT <2.5mm lp SPD 0.5 m/s DIS Triple 27in WT see spec
+www.Nooksguard.com  |  Call (516) 980-2444  |  NGTS-1000E multi-functional fast CT inspection system.
+
+===== PAGE 28 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+FEATURES & TECHNICAL DATA
+INTELLIGENT DETECTION TECHNOLOGY
+Confident screening decisions.
+Independent DR and CT detection systems generate 3D color, DR and CT
+slice images, giving operators multiple confirmation views for every scanned
+item.
+3D COLOR IMAGE
+360-degree rotation by material
+DR / CT SLICE VIEW
+High-definition 2D inspection
+Automatic explosives/drugs detection
+Dual-energy CT imaging obtains density and effective atomic number information to
+automatically detect a wide range of explosives and drugs.
+Intelligent contraband detection
+Combines DR and CT images with AI deep learning technology to intelligently identify
+knives, guns and other contraband items.
+HD color 3D and CT slice imaging
+Generates high-definition 3D images that rotate 360 degrees, displayed in different colors
+by material property, alongside 2D CT slice views.
+TECHNICAL DATA
+Key specifications
+Model: NGTS-1000E
+Channel size 1000 x 600 mm (max item size)
+Belt load 200 kg (evenly distributed)
+Conveyor speed 0.5 m/s (industry-highest)
+DR penetration >=30 mm steel plate
+CT spatial resolution better than 2.5mm line pairs
+DR tube voltage 180 kV
+Radiation leakage <1 uGy/h at 5cm from enclosure
+Display Triple 27in, up to 1920x1080
+Image storage >=100,000 images
+Working environment 0C~40C, 5%~95% RH
+Power supply AC380V (-15%~+10%)
+Overall dimensions 4490 x 2000 x 2100 mm
+Optional upgrades Radiation & chemical gas detection
+RADIATION SAFETY
+Leakage dose rate close to natural background, meeting international safety standards.
+www.Nooksguard.com  |  Call (516) 980-2444  |  NGTS-1000E
+
+===== PAGE 29 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MULTI-ENERGY X-RAY INSPECTION SYSTEM
+PRODUCT OVERVIEW
+NGZ-3825T
+Compact Multi-Energy X-ray Inspection System
+The NGZ-3825T is a compact multi-energy X-ray inspection system designed for screening small
+parcels, mail, handbags, briefcases and backpacks. It automatically identifies concealed prohibited
+items - firearms, ammunition, detonators, explosives, controlled knives and flammables - making it
+ideal for courts, correctional facilities, embassies, museums, hotels, event venues and corporate
+mailrooms.
+MULTI-ENERGY IMAGING
+L-shaped multi-energy photodiode array, 16-bit conversion; organics orange,
+inorganics blue, mixed green.
+AI THREAT RECOGNITION
+Real-time AI detection of knives, guns, liquids and explosives; 50ms
+recognition; up to 98% liquid detection rate.
+0.1MM THIN-OBJECT DETECTION
+Ultra-thin object mode detects metal down to 0.1mm thickness.
+SMART ENERGY SAVING
+Auto-sensing conveyor start/stop and temperature-controlled cooling cut power
+use and noise.
+304 STAINLESS BUILD
+Brushed 304 stainless tunnel and tray - durable, stain-resistant, non-reflective.
+www.Nooksguard.com  |  (516) 980-2444 2 / 6
+
+===== PAGE 30 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MULTI-ENERGY X-RAY INSPECTION SYSTEM
+TECHNICAL SPECIFICATIONS
+TECHNICAL SPECIFICATIONS
+Main unit size 1353 x 602 x 1260 mm (with base)
+Tunnel size 380 (W) x 250 (H) mm
+Receiving tray 450 mm; base 1350x600x457 mm
+Conveyor speed 0.22 m/s (adjustable)
+Conveyor rated load 90 kg (evenly distributed)
+Belt height 700 mm with base / 340 mm without
+Wire resolution 0.0787 mm copper wire
+Penetration 36 mm steel (applied value)
+Penetration resolution 0.160 mm copper wire
+Leakage dose < 0.1 uGy/h
+Beam direction Bottom-mounted, 80-degree angle
+Tube voltage 130-160 kV (adjustable)
+Tube current 0.3-1.0 mA (adjustable)
+Generator cooling 100% sealed oil cooling
+Generator power 160 W max
+Control interface RS232 digital serial communication
+Display 24 in IPS HD, 178-degree, 1920x1080
+Detector L-shaped multi-energy array, 1.57mm pitch, 16-bit
+Image storage > 1,000,000 images, instant recall
+Image replay Last 60+ images with full processing
+Scan direction Bi-directional scanning
+Working temp/humidity -10C to +45C / 20-95% non-condensing
+Storage temp/humidity -20C to +60C / 20-95% non-condensing
+Power supply 220 VAC +/-10%, 50 Hz
+Power consumption 0.5 kW max
+Noise level <= 56 dB
+Image processing: 24-bit true color with organic/inorganic/mixed classification; color/gray split-screen; edge & super enhancement; local magnify; brighten/darken; drug & explosive assist detection;
+one-key start; fault self-diagnosis for X-ray source, detector array, motorized roller and IR sensors.
+www.Nooksguard.com  |  (516) 980-2444 3 / 6
+
+===== PAGE 31 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MULTI-ENERGY X-RAY INSPECTION SYSTEM
+SMART SECURITY FEATURES
+SMART SECURITY & MANAGEMENT
+AI AUTO-RECOGNITION & ALARM
+Intelligent algorithms analyze parcels in real time and trigger audio-visual plus voice alarms.
+Detection rates: liquids 98%, knives & guns 95%, flammables & explosives 90%. Recognition
+speed 50ms.
+PROHIBITED-ITEM REGISTRATION
+Register and review prohibited-item records with images and holder ID information; networked
+statistics and data export; unified management of multiple checkpoints and device types.
+FACE-PARCEL-IMAGE BINDING
+Integrates face recognition, dynamic capture and deep learning; binds person, parcel and X-ray
+image in real time for fast retrieval and review.
+TIP TRAINING & NO-LOAD SIMULATION
+Threat Image Projection randomly inserts dangerous-goods images to assess operators;
+no-load dynamic imaging trains staff without running belt or X-ray.
+NETWORKED REMOTE OPERATIONS
+HTTP/HTTPS remote desktop viewing, remote conveyor control and status monitoring; image
+upload to server as JPG with view, mark, judge, save and report functions.
+OPTIONAL MODULES
+Remote CCTV recording - barcode/RFID/ID binding - one-key remote alarm - operator-absence
+detection - person/parcel/image storage - fingerprint power-on.
+www.Nooksguard.com  |  (516) 980-2444 4 / 6
+
+===== PAGE 32 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MULTI-ENERGY X-RAY INSPECTION SYSTEM
+COMPLIANCE & APPLICATIONS
+COMPLIANCE & APPLICATIONS
+CERTIFICATIONS & STANDARDS
+- GB 15208.1-2018 national standard compliant
+- CE / RoHS / FCC certified
+- Radiation safety licensed; leakage < 0.1 uGy/h
+- ISO9001 / ISO14001 / OHSAS28001 certified manufacturing
+- Police-authority inspection report
+KEY APPLICATIONS
+- Courts, prosecution offices and correctional facilities
+- Embassies, government buildings and event venues
+- Museums, casinos, hotels and tourist attractions
+- Corporate mailrooms and logistics checkpoints
+- Factories - anti-theft and public-safety screening
+Radiation safety: bottom-mounted 80-degree beam, double-layer lead curtains with anti-contact film and cross coverage; leakage dose below 0.1 uGy/h - safe for operators and
+passengers.
+www.Nooksguard.com  |  (516) 980-2444 5 / 6
+
+===== PAGE 33 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+PORTFOLIO MATRIX
+CHOOSE BY MISSION, NOT BY MODEL NUMBER
+Nine platforms span compact screening, wide-format capture, detailed review, high penetration and specialist access. Values marked * are source-material ratings and remain subject to final
+configuration confirmation.
+MODEL ROLE SOURCE OUTPUT STEEL* ACTIVE AREA* BEST FIT
+NGPX-60 Compact Portable Imaging System Constant-potential* TBC 13 mm* 305 x 254 mm* Rapid screening / training / small evidence items
+NGPX-80 Lightweight Constant-Potential System Constant-potential 80 kV* 13 mm* 430 x 350 mm* Single-operator search / suspicious parcels
+NGPX-125 Balanced Digital Imaging System Constant-potential 125 kV* 35 mm* 430 x 430 mm* EOD support / electronics / evidence inspection
+NGPX-120L Large-Format Imaging System Constant-potential 120 kV* 32 mm* 650 x 430 mm* Large parcels / equipment / forensic imaging
+NGPX-150C Versatile Field System Constant-potential 150 kV* 50 mm* 430 x 350 mm* Suspicious devices / concealed-object inspection
+NGPX-150HD Professional High-Definition System Constant-potential 150 kV* 50 mm* 430 x 430 mm* Professional EOD / dense targets / detail
+NGPX-270 High-Penetration Pulsed System Pulsed 270 kV* 110 mm* 430 x 430 mm* EOD / thick-walled containers / dense concealment
+NGPX-60A Articulated-Arm Special Configuration Config-dependent TBC TBC TBC Confined spaces / specialist search
+NGPX-200 Tactical Pulsed System Pulsed TBC 36 mm* 430 x 350 mm* Tactical EOD / mobile inspection / checkpoints
+TBC = to be confirmed. Specifications may vary with detector, source, software licensing and project configuration.
+www.Nooksguard.com  |  (516) 980-2444 3 / 15
+
+===== PAGE 34 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+MODEL 01 / 09
+MODEL 01/09
+NGPX-60
+Compact Portable Imaging System
+A compact option for rapid screening, training and space-constrained deployments.
+WHY IT FITS
+Integrated carry handle for rapid relocation
+Compact field of view for small suspicious items and tool cases
+Imaging software supports acquisition and essential enhancement tools
+An accessible route to building a mobile inspection capability
+X-RAY SOURCE Constant-potential configuration*
+RATED OUTPUT To be confirmed
+STEEL PENETRATION* 13 mm*
+ACTIVE AREA* 305 x 254 mm*
+BEST FIT Rapid screening / training / small evidence
+items
+CONFIGURATION NOTE: Final electrical data is subject to technical confirmation before
+quotation.
+www.Nooksguard.com  |  (516) 980-2444 4 / 15
+
+===== PAGE 35 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+MODEL 02 / 09
+MODEL 02/09
+NGPX-80
+Lightweight Constant-Potential System
+Designed for single-operator mobility while retaining a practical imaging area.
+WHY IT FITS
+Portable detector, control terminal and source packaged as a field-ready kit
+430 x 350 mm* active area covers common parcels and devices
+Constant-potential source supports detailed and repeatable image capture
+Compatible with enhancement, inversion and sharpening workflows
+X-RAY SOURCE Constant-potential
+RATED OUTPUT 80 kV*
+STEEL PENETRATION* 13 mm*
+ACTIVE AREA* 430 x 350 mm*
+BEST FIT Single-operator search / suspicious parcels /
+technical inspection
+CONFIGURATION NOTE: Weight and protection rating vary with detector and source
+configuration.
+www.Nooksguard.com  |  (516) 980-2444 5 / 15
+
+===== PAGE 36 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+MODEL 03 / 09
+MODEL 03/09
+NGPX-125
+Balanced Digital Imaging System
+A balanced platform combining penetration, a square imaging area and mobile operation.
+WHY IT FITS
+17 x 17-inch-class CsI detector format
+Square imaging area suits bags, electronics and complex evidence items
+Acquisition, enhancement, inversion and pseudo-color software tools
+Optional AI-assisted highlighting and mobile image review
+X-RAY SOURCE Constant-potential
+RATED OUTPUT 125 kV*
+STEEL PENETRATION* 35 mm*
+ACTIVE AREA* 430 x 430 mm*
+BEST FIT EOD support / electronics / general evidence
+inspection
+CONFIGURATION NOTE: AI, mobile viewing and 3D display depend on software licensing
+and project configuration.
+www.Nooksguard.com  |  (516) 980-2444 6 / 15
+
+===== PAGE 37 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+MODEL 04 / 09
+MODEL 04/09
+NGPX-120L
+Large-Format Imaging System
+A wider detector format that reduces sectional captures on larger objects.
+WHY IT FITS
+650 x 430 mm* wide-format active area improves coverage of larger objects
+Wide detector, mobile terminal and separate X-ray source
+AI demonstrations include firearms, knives, electronics and battery alerts
+Suitable for large parcels, equipment housings and forensic overview
+imaging
+X-RAY SOURCE Constant-potential
+RATED OUTPUT 120 kV*
+STEEL PENETRATION* 32 mm*
+ACTIVE AREA* 650 x 430 mm*
+BEST FIT Large parcels / equipment inspection /
+forensic imaging
+CONFIGURATION NOTE: Penetration varies with source, material composition and imaging
+conditions.
+www.Nooksguard.com  |  (516) 980-2444 7 / 15
+
+===== PAGE 38 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+MODEL 05 / 09
+MODEL 05/09
+NGPX-150C
+Versatile Field System
+Combines higher penetration with a portable rectangular detector for varied field tasks.
+WHY IT FITS
+430 x 350 mm* carbon-fiber detector with alignment marks and carry handle
+Wireless-capable source and rugged tablet form a mobile workstation
+Software supports enhancement, thumbnail management and result review
+Built for rapid examination of suspicious devices and concealed items
+X-RAY SOURCE Constant-potential
+RATED OUTPUT 150 kV*
+STEEL PENETRATION* 50 mm*
+ACTIVE AREA* 430 x 350 mm*
+BEST FIT Suspicious devices / electronics /
+concealed-object inspection
+CONFIGURATION NOTE: Component definition follows the project technical schedule.
+www.Nooksguard.com  |  (516) 980-2444 8 / 15
+
+===== PAGE 39 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+MODEL 06 / 09
+MODEL 06/09
+NGPX-150HD
+Professional High-Definition System
+A high-definition platform for structural detail and professional EOD support.
+WHY IT FITS
+Square detector and 150 kV* source address common high-density targets
+AI-assisted object highlighting for faster triage
+Rugged tablet supports review, zoom, enhancement and result management
+Project options include remote viewing and mobile collaboration
+X-RAY SOURCE Constant-potential
+RATED OUTPUT 150 kV*
+STEEL PENETRATION* 50 mm*
+ACTIVE AREA* 430 x 430 mm*
+BEST FIT Professional EOD / dense targets / structural
+detail
+CONFIGURATION NOTE: Pixel pitch, dead zone, ingress protection and temperature range
+follow the final detector configuration.
+www.Nooksguard.com  |  (516) 980-2444 9 / 15
+
+===== PAGE 40 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+MODEL 07 / 09
+MODEL 07/09
+NGPX-270
+High-Penetration Pulsed System
+Higher energy reserve for dense targets, thick-walled containers and demanding EOD work.
+WHY IT FITS
+Pulsed generator, square detector and mobile terminal
+270 kV* class configuration targets dense and thick-walled objects
+Detector includes identified power, network and synchronization interfaces
+AI-assisted review and an anaglyph depth-view mode
+X-RAY SOURCE Pulsed
+RATED OUTPUT 270 kV*
+STEEL PENETRATION* 110 mm*
+ACTIVE AREA* 430 x 430 mm*
+BEST FIT EOD / thick-walled containers / dense
+concealment
+CONFIGURATION NOTE: The 110 mm* figure is a source-material rating; real performance
+depends on material, distance and exposure setup.
+www.Nooksguard.com  |  (516) 980-2444 10 / 15
+
+===== PAGE 41 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+MODEL 08 / 09
+MODEL 08/09
+NGPX-60A
+Articulated-Arm Special Configuration
+For constrained access, unusual viewing angles and stand-off review workflows.
+WHY IT FITS
+Articulated link between detector and control terminal
+Adjustable viewing angle supports image review in unusual working positions
+Separate source and detector allow flexible placement around the target
+Suited to complex scenes, confined spaces and specialist search tasks
+X-RAY SOURCE Configuration-dependent
+RATED OUTPUT To be confirmed
+STEEL PENETRATION* TBC
+ACTIVE AREA* TBC
+BEST FIT Confined spaces / specialist search /
+unusual working positions
+CONFIGURATION NOTE: A technical confirmation sheet is issued before quotation.
+www.Nooksguard.com  |  (516) 980-2444 11 / 15
+
+===== PAGE 42 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+MODEL 09 / 09
+MODEL 09/09
+NGPX-200
+Tactical Pulsed System
+Prioritizes fast deployment and pulsed exposure for mobile tactical inspection.
+WHY IT FITS
+430 x 350 mm* carbon-fiber detector with handle and alignment marks
+Pulsed-source workflow supports short exposures and rapid mobility
+Sequential captures cover larger targets with software-side image
+management
+Designed for field EOD, vehicle-based teams and temporary checkpoints
+X-RAY SOURCE Pulsed
+RATED OUTPUT To be confirmed
+STEEL PENETRATION* 36 mm*
+ACTIVE AREA* 430 x 350 mm*
+BEST FIT Tactical EOD / mobile inspection / temporary
+checkpoints
+CONFIGURATION NOTE: Final output voltage follows the technical file.
+www.Nooksguard.com  |  (516) 980-2444 12 / 15
+
+===== PAGE 43 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+IMAGING & COLLABORATION
+THE IMAGE WORKFLOW MATTERS AS MUCH AS THE SOURCE
+A portable system earns its place in the field when images can be captured, enhanced, reviewed and shared without slowing the mission.
+FIELD IMAGE TOOLS
+Zoom, sharpening, inversion, pseudo-color, window/level and thumbnail
+management for fast field review.
+AI-ASSISTED ALERTS
+Selected configurations demonstrate highlighted alerts for firearms, knives,
+electronics and batteries. AI supports triage; trained operators retain decision
+responsibility.
+MOBILE & REMOTE REVIEW
+Where licensing and network conditions permit, images can be reviewed on mobile
+devices and shared for project-level expert collaboration.
+DEPTH-VIEW MODE
+A red/cyan anaglyph view improves perception of overlapping structures. It is not CT
+volumetric reconstruction.
+Standard system elements: digital detector, X-ray source, control terminal, imaging software, connection/synchronization accessories and protective transport cases.
+www.Nooksguard.com  |  (516) 980-2444 13 / 15
+
+===== PAGE 44 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGPX PORTABLE X-RAY INSPECTION SYSTEMS
+SELECTION & APPLICATIONS
+DEFINE THE OBJECT BEFORE CHOOSING THE ENERGY CLASS
+Small objects, frequent moves, minimum carry
+burden?
+NGPX-60 / NGPX-80
+A balanced square imaging area?
+NGPX-125
+Larger objects with fewer sectional captures?
+NGPX-120L
+More structural detail for professional review?
+NGPX-150HD
+Dense or thick-walled targets?
+NGPX-270
+Confined access or unusual working positions?
+NGPX-60A
+Rapid mobile deployment with pulsed exposure?
+NGPX-200
+APPLICATION MAP
+MISSION PRIORITY RECOMMENDED PLATFORM
+EOD & security Penetration, stand-off operation, fast review NGPX-150HD / NGPX-270
+Customs & border work Active area, enhancement, mobility NGPX-125 / NGPX-120L
+Technical search Detail, access, terminal collaboration NGPX-80 / NGPX-60A
+Forensics & evidence Coverage, structural clarity, image retention NGPX-120L / NGPX-150HD
+Tactical checkpoints Setup speed, pulsed exposure, portability NGPX-200 / NGPX-80
+www.Nooksguard.com  |  (516) 980-2444 14 / 15
+
+===== PAGE 45 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+WALK-THROUGH METAL DETECTORS
+PRODUCT MATRIX
+PRODUCT MATRIX
+Five purpose-built walk-through metal detectors, one unified standard.
+ENTRY TIER
+NGHWT-600
+Volume-deployment
+$
+PROFESSIONAL
+NGHWT-1618
+X-ray Optimized
+$$
+FLAGSHIP
+NGHWT-2400
+Touch Intelligence
+$$$
+ELITE TIER
+NGHWT-4500
+Airport-Class
+$$$$
+PORTABLE
+NGHWT-9000
+Rapid Deployment
+$$$
+www.Nooksguard.com  |  (516) 980-2444 3 / 12
+
+===== PAGE 46 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+WALK-THROUGH METAL DETECTORS
+VOLUME-DEPLOYMENT WALK-THROUGH METAL DETECTOR
+NGHWT-600
+Volume-Deployment Walk-Through Metal Detector
+The NGHWT-600 is designed for volume deployment in price-sensitive tenders without sacrificing
+reliable detection. It is the ideal choice for large-scale facilities requiring multiple checkpoints.
+AFFORDABLE WITH ASSURANCE
+1-year warranty + 8-year parts supply guarantee.
+REAL-TIME ALARM LOCATION
+Side LED light bars show precise alarm position.
+6/12/18 ZONES
+Switchable zone counts for various security tiers.
+OUTER
+2220x810mm
+NET WEIGHT
+50 kg
+POWER
+AC 220V
+www.Nooksguard.com  |  (516) 980-2444 4 / 12
+
+===== PAGE 47 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+WALK-THROUGH METAL DETECTORS
+THE X-RAY SCANNER'S CLOSEST COMPANION
+NGHWT-1618
+The X-Ray Scanner's Closest Companion
+Our patented Zero-Interference engineering allows the NGHWT-1618 to stand directly beside X-ray
+baggage scanners without crosstalk. Ideal for cramped checkpoint environments like bank or
+hospital entrances.
+PATENTED ZERO INTERFERENCE
+Optimized electromagnetic shielding for side-by-side use.
+MILITARY-GRADE BUILD
+ABS+PC+Aluminium structure. IP43 weather-proof option.
+SAFE-METAL EXCLUSION
+One-tap filter for belt buckles, keys, and jewelry.
+TUNNEL
+750x2045mm
+OUTER
+910x2181mm
+BATTERY
+20h Optional
+www.Nooksguard.com  |  (516) 980-2444 5 / 12
+
+===== PAGE 48 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+WALK-THROUGH METAL DETECTORS
+FULL-TOUCH INTELLIGENCE SECURITY GATE
+NGHWT-2400
+Full-Touch Intelligence Security Gate
+Equipped with a 7-inch HD touchscreen and a 54-scenario preset library, the NGHWT-2400 is the
+smartest gate in its class. One-tap setup for 'Factory' or 'Stadium' environments makes deployment
+effortless.
+TOUCHSCREEN WORKFLOW
+7-inch bilingual menu, intuitive for non-technical guards.
+ANTI-VIBRATION DESIGN
+World-first design ensures panel strikes do not trigger false alarms.
+ONE SKU, MULTI-ZONE
+Software-selectable 8/16/24 zones in a single unit.
+DISPLAY
+7 in Touch
+NET WEIGHT
+60 kg
+ZONES
+8/16/24 Selectable
+www.Nooksguard.com  |  (516) 980-2444 6 / 12
+
+===== PAGE 49 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+WALK-THROUGH METAL DETECTORS
+PREMIUM-ALIGNED AIRPORT-CLASS SECURITY
+NGHWT-4500
+Premium-Aligned Airport-Class Security
+The NGHWT-4500 is built for elite security environments. With 4090-level total sensitivity and
+flying-object detection, it benchmarks against the world's most sensitive international brands.
+FLYING-OBJECT DETECTION
+Detects metal items thrown through the gate frame.
+AIRPORT-CLASS RANDOM ALARM
+Programmable 0-20% random screening for counter-terrorism.
+TURNSTILE INTERFACE
+Integrated closed-loop interface for access automation.
+SENSITIVITY
+4090 Level
+FREQUENCY
+100 Bands
+RESET TIME
+0.2 Seconds
+www.Nooksguard.com  |  (516) 980-2444 7 / 12
+
+===== PAGE 50 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+WALK-THROUGH METAL DETECTORS
+RAPID-DEPLOYMENT PORTABLE SECURITY TOWER
+NGHWT-9000
+Rapid-Deployment Portable Security Tower
+A best-seller for temporary events and military rapid deployment. The NGHWT-9000 folds into a
+sedan trunk and can be setup by one person in 5 minutes without any tools.
+VEHICLE PORTABLE
+Folds to 107x66x71cm. Fits in car trunks, no truck needed.
+40-HOUR BATTERY LIFE
+Integrated high-capacity battery for full off-grid operation.
+OUTDOOR READY
+IP55 rating + UV protection against rain, dust, and sun.
+SETUP TIME
+5 Minutes
+FOLDED VOL
+0.5 m3
+PROTECTION
+IP55 Rated
+www.Nooksguard.com  |  (516) 980-2444 8 / 12
+
+===== PAGE 51 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+WALK-THROUGH METAL DETECTORS
+SELECTION GUIDE
+SELECTION GUIDE
+Find your model in 60 seconds - match your need, get your answer.
+01 I want the most affordable option.
+Budget-led tender, volume deployment
+NGHWT-600
+02 Tight space - sit next to X-ray scanner.
+Banks, hospitals, metro
+NGHWT-1618
+03 Operators aren't technical.
+54 preset scenarios
+NGHWT-2400
+04 Move it between venues often.
+Concerts, road shows
+NGHWT-2400+Wheels or NGHWT-9000
+05 No stable power. Outdoor use.
+Off-grid checkpoint
+NGHWT-9000
+06 Budget open. Benchmark international.
+High-security
+NGHWT-4500
+07 Airport, prison, military.
+Counter-terrorism class
+NGHWT-4500
+www.Nooksguard.com  |  (516) 980-2444 9 / 12
+
+===== PAGE 52 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+WALK-THROUGH METAL DETECTORS
+COMPETITIVE EDGE
+COMPETITIVE EDGE
+How NGHWT series compares to international premium brands.
+NGHWT-4500 vs CEIA HI-PE Plus
+FEATURE NGHWT-4500 CEIA HI-PE+
+Sensitivity 4090-level High ceiling
+Freq Bands 100 selectable Industry std
+Flying-Obj Det STANDARD X
+Random Alarm PROGRAMMABLE X
+Turnstile IF INTEGRATED OPTIONAL
+NGHWT-9000 vs Garrett PD 6500i
+FEATURE NGHWT-9000 PD 6500i
+Battery Life 40 HOURS Shorter
+Folded Vol 107x66x71 cm Larger
+Protection IP55 RATED Standard
+Setup Time 5 MIN / 1 PERS Comparable
+Price Pos COMPETITIVE Premium import
+www.Nooksguard.com  |  (516) 980-2444 10 / 12
+
+===== PAGE 53 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+WALK-THROUGH METAL DETECTORS
+GLOBAL MARKETS
+GLOBAL MARKETS
+MIDDLE EAST NGHWT-4500 / NGHWT-2400 Mega-projects, premium budgets
+AFRICA NGHWT-9000 / NGHWT-1618 Unstable power, durability-critical
+SOUTHEAST ASIA NGHWT-1618 / NGHWT-600 Price-sensitive, volume deployment
+NORTH AMERICA NGHWT-4500 / NGHWT-2400 Benchmark procurement, certification-driven
+www.Nooksguard.com  |  (516) 980-2444 11 / 12
+
+===== PAGE 54 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+HIGH-END WALK-THROUGH METAL DETECTORS
+CONTENTS
+PRODUCT CATEGORIES
+HIGH-END WTMD SERIES
+01 MULTI-MODE DETECTION GATES
+Switchable full-metal, weapon-detection, and mobile-phone detection modes.
+2 models  -  NGHWT-2025T, NGHWT-2286D
+02 SINGLE-POLE WALK-THROUGH DETECTOR
+Compact single-column metal detector for narrow-entry checkpoints.
+1 model  -  NGHWT-2900D
+03 SMART / IOT NETWORK GATES
+Android touchscreen and networked IoT gates with cloud-based centralized management.
+2 models  -  NGHWT-2286S, NGHWT-M8-PLUS
+04 STANDARD CLASSIC WTMD
+Reliable digital pulse metal detector gates for everyday security checkpoints.
+2 models  -  NGHWT-2286, NGHWT-M8
+www.Nooksguard.com  |  (516) 980-2444 2 / 7
+
+===== PAGE 55 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+HIGH-END WALK-THROUGH METAL DETECTORS
+MULTI-MODE DETECTION GATES
+01  MULTI-MODE DETECTION GATES
+3-in-1 Switchable Detection Mode Security Gates 3 MODES: FULL METAL / WEAPON / MOBILE PHONE
+NGHWT-2025T
+Intelligent Multi-AI Security Gate
+NGHWT-2286D
+Smart Android Touchscreen Security Gate
+NGHWT-2025T SPECS
+Compliance GB15210-2018
+Detection modes 3: prohibited item / item+phone / full metal
+Knife detection 12 cm blade
+Display 29-color large LCD
+Tunnel size 1995 x 720 x 650 mm
+Weight ~80 kg
+NGHWT-2286D SPECS
+OS platform Android 7.1, RK3288 quad-core
+Display 28 in HD touchscreen, 1920x1080
+Sensitivity 0-9999 levels adjustable
+Detection zones 6 / 12 / 18 selectable
+Overall size 2345 x 915 x 600 mm
+Waterproof rating IP41
+Applications: airports, subways, railway stations, customs, correctional facilities, courts, prisons, schools, and large public events requiring flexible detection mode switching.
+www.Nooksguard.com  |  (516) 980-2444 3 / 7
+
+===== PAGE 56 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+HIGH-END WALK-THROUGH METAL DETECTORS
+SINGLE-POLE WALK-THROUGH DETECTOR
+02  SINGLE-POLE WALK-THROUGH DETECTOR
+Compact Single-Column Metal Detector
+NGHWT-2900D
+Single-Pole Digital Pulse Metal Detector
+NGHWT-2900D SPECS
+Detection technology Digital pulse, 4000-level sensitivity
+Sensitivity adjustment 0-3999 levels per zone
+Detection modes All metal / ferromagnetic / non-ferromagnetic
+Working frequencies 2,000 manually adjustable
+Scene modes 11 built-in quick-setting scenes
+Alarm bell options 9 types, 0-8 level volume
+Alarm time Adjustable 0.5s-4.0s
+Display 9 inch LCD color screen
+Pass rate >60 person-times per minute
+Dimensions 2170 (H) x 120 (W) x 450 (D) mm
+Weight ~30 kg
+Power consumption <=15 W
+Operating temperature -20C to +55C
+Standard compliance GB15210-2003
+Applications: narrow-entry checkpoints, single-lane access points, retail and office entrances, and venues requiring a compact freestanding detection column.
+www.Nooksguard.com  |  (516) 980-2444 4 / 7
+
+===== PAGE 57 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+HIGH-END WALK-THROUGH METAL DETECTORS
+SMART / IOT NETWORK GATES
+03  SMART / IOT NETWORK GATES
+Android Touchscreen & Cloud-Networked Security Gates CLOUD / LAN CENTRALIZED MANAGEMENT
+NGHWT-2286S
+Android Smart Large-Screen Security Gate
+NGHWT-M8-PLUS
+Smart IoT Network Security Gate
+NGHWT-2286S SPECS
+OS platform Android 7.1, RK3288 quad-core, 2GB RAM
+Display 28 in HD touchscreen, 1920x1080
+Detection zones 6 / 12 / 18 selectable
+Face recognition 1080P HD camera, whitelist/blacklist
+Temperature scan IR, accuracy +/-0.1C
+Overall size 2345 x 915 x 600 mm
+NGHWT-M8-PLUS SPECS
+Display 7.1 in touchscreen
+Detection zones 8 continuous zones, no blind spots
+Sensitivity 200 levels per zone
+Networking Cloud server / LAN centralized management
+Programs >30 built-in detection programs
+Net weight 65 kg
+Applications: hotels, corporate campuses, government facilities, and multi-site security operations requiring centralized remote monitoring and data management.
+www.Nooksguard.com  |  (516) 980-2444 5 / 7
+
+===== PAGE 58 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+HIGH-END WALK-THROUGH METAL DETECTORS
+STANDARD CLASSIC WTMD
+04  STANDARD CLASSIC WTMD
+Reliable Digital Pulse Detection Gates
+NGHWT-2286
+Digital Pulse Metal Detector Gate
+NGHWT-M8
+Ultra-High Sensitivity Metal Detector Gate
+NGHWT-2286 SPECS
+Sensitivity 0-3999 levels adjustable
+Detection zones 6 / 12 / 18 adjustable
+Passing rate >100 per/min
+Standard GB15210-2003
+Channel dimension 1980 x 700 x 710 mm
+Gross weight 72 kg
+NGHWT-M8 SPECS
+Sensitivity 200 levels per detection zone
+Detection Small magnetic / non-magnetic / mixed metal
+Protection IP 55 (IEC 60529)
+Power supply AC 100-260V
+Gross weight 80 kg
+Standard/certification CE, radiation detection certified
+Applications: public security departments, rail transit, correctional facilities, entertainment venues, factories, and general-purpose security checkpoints.
+www.Nooksguard.com  |  (516) 980-2444 6 / 7
+
+===== PAGE 59 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGHH HANDHELD METAL DETECTORS
+PORTFOLIO OVERVIEW
+16 MODELS / CONFIGURATIONS · 4 TIERS · ONE PROTECTION STANDARD
+The NGHH family covers ultra-sensitive flagship screening, tactical pinpoint detection, professional daily screening and cost-efficient mass deployment.
+01 FLAGSHIP
+OLED · 30 levels · 200 h · 3 color configurations
+NGHH-2025  ·  NGHH-2025-W  ·  NGHH-2025-O  ·  NGHH-2025-G
+02 PREMIUM
+LCD / tactical control · lithium · IP54
+NGHH-160  ·  NGHH-160E  ·  NGHH-140  ·  NGHH-2022
+03 PERFORMANCE
+Professional multi-mode screening · 22-95 kHz
+NGHH-300C  ·  NGHH-360  ·  NGHH-008  ·  NGHH-300
+04 ESSENTIAL
+Simple operation · high-volume deployment
+NGHH-1002  ·  NGHH-3003  ·  NGHH-101H  ·  NGHH-3003B1
+www.Nooksguard.com  |  (516) 980-2444 2 / 9
+
+===== PAGE 60 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGHH HANDHELD METAL DETECTORS
+FLAGSHIP PLATFORM
+NGHH-2025 — ULTRA-HIGH SENSITIVITY FLAGSHIP
+Extreme sensitivity meets industry-leading endurance.
+OLED DIGITAL DISPLAY
+Real-time sensitivity, alarm and battery status.
+30-LEVEL SENSITIVITY
+Fine-step adjustment; detects half of a No.10 staple.
+200 H / 30 DAYS
+200-hour continuous runtime and 30-day standby.
+MULTI-MODE ALARM
+Sound, light, vibration and headphone modes.
+TRIPLE COMPLIANCE
+GB 12899-2018 Grade A, NIJ-0602.02 and NIJ-0602.03.
+NO CALIBRATION
+Self-adaptive and stable near large metal objects.
+260 g
+NET WEIGHT
+IP53
+PROTECTION
+-40 to +70 C
+TEMPERATURE
+www.Nooksguard.com  |  (516) 980-2444 3 / 9
+
+===== PAGE 61 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGHH HANDHELD METAL DETECTORS
+FLAGSHIP SPECIFICATIONS
+NGHH-2025 — TECHNICAL SPECIFICATIONS
+Sensitivity Half of a No.10 staple Sensitivity Levels 30, fine-step adjustment
+Detection Range >= 300 mm Frequency Automatic conversion, multi-band
+Alarm Modes Sound / Light / Vibration / Headphone Detection Modes Ferrous / Non-Ferrous / All-Metal
+Alarm Sound >= 80 dB(A) Display OLED digital readout
+Continuous / Standby ~200 h / ~30 days Power 2xAA; rechargeable option; Type-C
+Interference Resistance Multiple detectors within 0.2 m Operating Temperature -40 to +70 C (4 h)
+Protection IP53 Material Impact-resistant PC + ABS
+Radiation Field <= 10 uT at any surface point Net Weight ~260 g excl. battery
+Compliance GB 12899-2018 A / NIJ-0602.02 / .03
+COLOR CONFIGURATIONS
+NGHH-2025-W
+Glaze White
+NGHH-2025-O
+Rosy Orange
+NGHH-2025-G
+Space Gray
+www.Nooksguard.com  |  (516) 980-2444 4 / 9
+
+===== PAGE 62 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGHH HANDHELD METAL DETECTORS
+PREMIUM TIER
+PREMIUM TIER
+Tactical pinpoint precision and demanding field operations
+NGHH-160
+Ultra-Sensitivity Pinpoint Wand
+4-level sensitivity
+LCD depth display
+21 cm scan area
+200 g / IP54
+25-95 kHz
+Lithium: 100 h runtime / 500 h standby
+NGHH-160E
+Pro Pinpoint with Type-C Lithium
+4-level sensitivity
+LCD display
+CE / FCC / RoHS
+200 g / IP54
+-40 to +70 C
+Type-C lithium / 500 h standby
+NGHH-140
+Wide-Temp Tactical 3-Axis Detector
+3-level sensitivity
+ATD identification tone
+3-axis accelerometer
+400 g / IP54
+25 kHz
+Lithium: 150 h
+NGHH-2022
+5-Level Compact Wand
+5-level sensitivity
+ATD mode
+USB Type-C
+360 g
+25-95 kHz
+Built-in 1800 mAh lithium
+www.Nooksguard.com  |  (516) 980-2444 5 / 9
+
+===== PAGE 63 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGHH HANDHELD METAL DETECTORS
+PERFORMANCE TIER
+PERFORMANCE TIER
+Mainstream professional models with versatile detection modes
+NGHH-300C
+Wide-Frequency Triple-Mode Detector
+3-level sensitivity
+25-95 kHz
+CE / FCC / ISO 9001
+250 g / IP54
+-25 to +60 C
+2xAA / lithium 500 h standby
+NGHH-360
+Extended Range 41 cm Probe
+3-level sensitivity
+Large scan coverage
+100 h standby
+500 g / IP54
+25-95 kHz
+2xAA / lithium option
+NGHH-008
+High-Frequency 35 kHz Super Wand
+VLF + DSP processing
+Built-in lithium
+Up to 500 h standby
+225 g / IP54
+35 kHz
+-20 to +55 C
+NGHH-300
+ATD Identification Wand
+ATD tone
+Low-sensitivity mode
+40 h continuous
+264 g
+22 kHz
+9 V battery
+www.Nooksguard.com  |  (516) 980-2444 6 / 9
+
+===== PAGE 64 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGHH HANDHELD METAL DETECTORS
+ESSENTIAL TIER
+ESSENTIAL TIER
+Reliable cost-efficient entry models for high-volume deployment
+NGHH-1002
+Cost-Efficient Compact Wand
+2-level sensitivity
+Pin detection: 30-60 mm
+1 m drop-tested
+270 g
+22 kHz
+9 V / 40 h
+NGHH-3003
+Audio + Vibration Alarm
+2-level sensitivity
+Handgun: 150 mm
+Audio / vibration
+270 g
+22 kHz
+9 V / 40 h
+NGHH-101H
+Preset-Sensitivity Detector
+No adjustment needed
+LED alarm
+Plug-and-play operation
+225 g
+30 kHz
+9 V: 30 h lithium / 28 h alkaline
+NGHH-3003B1
+Long-Wand Triple-Alarm Detector
+Three alarm modes
+Noisy-environment ready
+Long patrol probe
+270 g
+22 kHz
+9 V / 40 h
+www.Nooksguard.com  |  (516) 980-2444 7 / 9
+
+===== PAGE 65 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGHH HANDHELD METAL DETECTORS
+APPLICATIONS & SELECTION
+ONE FAMILY, SIX HIGH-STAKES MISSIONS
+01  SECURITY SCREENING
+Airports, prisons, law enforcement, military bases and customs.
+02  GOVERNMENT & EVENTS
+Government offices, corporate HQs, conferences and stadiums.
+03  FACTORY ANTI-THEFT
+Jewelry, electronics, cable and hardware manufacturing.
+04  LOGISTICS & POSTAL
+Parcel screening, baggage inspection and mail security.
+05  QUALITY CONTROL
+Textile, food and pharmaceutical contamination detection.
+06  CONFIDENTIAL ZONES
+Classified offices, exam rooms, anti-cheating and TSCM sweeps.
+SELECTION SHORTCUT
+Ultra sensitivity: NGHH-2025  |  Tactical precision: NGHH-160 / 160E / 140  |  Daily professional: NGHH-300C / 360 / 008 / 300  |  Mass deployment: NGHH-1002 / 3003 / 101H / 3003B1
+www.Nooksguard.com  |  (516) 980-2444 8 / 9
+
+===== PAGE 66 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MILLIMETER WAVE BODY SCANNERS
+TECHNOLOGY OVERVIEW
+NEXT-GENERATION HUMAN BODY SCREENING
+Nooksguard's Millimeter Wave (MMW) body scanners utilize proprietary 80GHz chips and 2D MIMO
+scanning technology to provide high-resolution imaging of the human body. Combined with advanced AI
+algorithms, our systems automatically identify suspicious objects hidden under clothing—including metal,
+non-metal, liquid, narcotics, and ceramic items—realizing efficient, non-contact security screening for
+high-traffic environments.
+0.1s Fast Scan
+Real-time scanning for rapid
+passage.
+AI Auto-ID
+Intelligent identification of
+contraband.
+Non-Contact
+Privacy-respecting, touchless
+screening.
+Low Maintenance
+Solid-state array, no mechanical
+parts.
+www.Nooksguard.com  |  (516) 980-2444 2 / 6
+
+===== PAGE 67 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MILLIMETER WAVE BODY SCANNERS
+INTELLIGENT MULTI-AI SECURITY BODY SCANNER
+NGMW-7803
+Intelligent Multi-AI Security Body Scanner
+PRODUCT HIGHLIGHTS
+The NGMW-7803D is our highest-tier body scanner, achieving CAAC A3 Level certification. It
+utilizes 2D MIMO scanning to create precise body images and AI to identify metallic and
+non-metallic suspicious objects.
+TECHNICAL SPECIFICATIONS
+Working Frequency 70GHz ~ 80GHz (80GHz R&D Chips)
+Spatial Resolution 2mm
+Scanning Speed 0.1s
+Detection Time 3.2s
+Line Resolution 1mm
+Passage Width 1120mm (Barrier-free)
+Compliance CAAC A3 Level Usage License
+Optional Foot Metal Detection Integrated
+KEY APPLICATIONS
+Airports, high-speed rail, customs, special sensitive facilities, and large-scale public events.
+www.Nooksguard.com  |  (516) 980-2444 3 / 6
+
+===== PAGE 68 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MILLIMETER WAVE BODY SCANNERS
+HIGH-TRAFFIC WALK-THROUGH BODY SCANNER
+NGMW-1310
+High-Traffic Walk-Through Body Scanner
+PRODUCT HIGHLIGHTS
+Designed for large passenger flow, the NGMW-1310 offers non-stop, non-contact screening. Its
+360-degree active imaging generates 3D holographic models for comprehensive security coverage
+without mechanical rotation.
+TECHNICAL SPECIFICATIONS
+Working Principle Active Millimeter Wave Real-time Imaging
+Imaging Array Multi-angle Folding Array
+Scanning Method 360-degree Non-stop Walk-through
+Device Flux 1,200 People / Hour
+Imaging Speed < 15ms
+Spatial Resolution 10mm
+Line Resolution 5mm
+Detectable Items Metal, Plastic, Liquid, Ceramic, Composite
+KEY APPLICATIONS
+Subway entrances, high-speed train stations, hospitals, and high-traffic event venues.
+www.Nooksguard.com  |  (516) 980-2444 4 / 6
+
+===== PAGE 69 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MILLIMETER WAVE BODY SCANNERS
+TECHNICAL ADVANTAGE
+ADVANCED DETECTION TECHNOLOGY
+AI Intelligent Identification
+Automatic detection of contraband through deep-learning neural networks, displaying position markers on HD video images for precise manual check.
+Barrier-Free High Flux
+Industry-leading scanning speed and walk-through designs ensure smooth traffic flow, processing up to 1200 people per hour without bottlenecks.
+Safe & Privacy-Respecting
+Millimeter wave technology uses non-ionizing radiation, safer than X-ray, while software filters ensure privacy with skeletal or avatar representation.
+No Mechanical Wear
+Modular radar array architecture without moving parts ensures long-term stability and reduces maintenance costs significantly.
+www.Nooksguard.com  |  (516) 980-2444 5 / 6
+
+===== PAGE 70 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+FOOT & SHOE SECURITY SCREENING
+ELITE & CLASSIC FOOT SCREENING
+NGFS-5010
+High-End X-ray Foot Scanner
+NGFS-5010 HIGHLIGHTS
+Tech Transmission X-ray imaging
+Scan time < 5 seconds
+Features Detects metal, liquids, narcotics
+Safety Low dose: <0.25uSv
+Display Dual Screen: 15in + 12.3in
+Weight 76 kg
+NGFS-SOLE
+Classic Shoe Metal Detector
+NGFS-SOLE HIGHLIGHTS
+Tech Digital induction loop
+Target Hazardous items in soles
+Capacity Up to 150 kg load
+Safety Waterproof & Anti-slip
+Alarm Audio-visual intensity display
+Power Battery: 5400 mAh
+www.Nooksguard.com  |  (516) 980-2444 2 / 4
+
+===== PAGE 71 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+FOOT & SHOE SECURITY SCREENING
+SMART & HIGH-FLUX CHECKPOINTS
+NGFS-1688
+High-Flux Cloud Sole Scanner
+NGFS-1688 HIGHLIGHTS
+Tech High-frequency induction
+Design Streamlined Cloud-shape
+Report Voice + LED indicator
+Response Real-time identification
+Current 110mA low consumption
+Temp -5C to +50C
+NGFS-FD100
+Smart LED Shoe Security Gate
+NGFS-FD100 HIGHLIGHTS
+Tech Modular digital detection
+Visuals 4 High-bright LED strips
+Display 2.8 inch LCD screen
+Durability Load-bearing: 300+ kg
+Alerts 360-degree visible zone
+Power DC 12V / < 5W
+www.Nooksguard.com  |  (516) 980-2444 3 / 4
+
+===== PAGE 72 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGUV UNDER VEHICLE SURVEILLANCE SYSTEMS
+PORTFOLIO OVERVIEW
+FROM CHECKPOINT SCANNERS TO HANDHELD MIRRORS
+The NGUV line covers every vehicle-underside inspection scenario: fixed dual-mode scanning lanes, 3D dual-view imaging, rapid-deployment portable kits and a complete family of handheld
+inspection mirrors and video poles.
+MODEL TYPE KEY CAPABILITY BEST FIT
+NGUV-110F Flush Mount Scanning System Dual-mode scan, 4096P, up to 100 km/h, IP68 Permanent high-traffic checkpoints
+NGUV-110S Surface Mount Scanning System Dual-mode scan, no digging, <7cm profile Fast-install fixed checkpoints
+NGUV-110P Portable Scanning System Mobile cart, 8h battery, 27-inch monitor Temporary / mobile checkpoints
+NGUV-260 3D Dual-View Scanning System Dual tilt views, finds threats above bumpers High-security sites, AI screening
+NGUV-M2 / M16 Handheld Convex Mirrors 20cm / 16cm mirrors, telescopic pole, LED Patrol quick checks
+NGUV-M3 / M3Z Wheeled Round Mirrors 30cm 2x magnification, casters, flashlight Gate guard daily inspection
+NGUV-M4 / M5 Large Mirrors 40cm / square T-grip, long LED bar, dual-axle casters Trucks and high-chassis vehicles
+NGUV-V1 / V2 Video Inspection Poles Camera + screen, night vision, recording Evidence capture, dark areas
+NGUV-V3 Dual-Camera Video Pole HD screen, dual cameras, media system Detailed under-body review
+www.Nooksguard.com  |  (516) 980-2444 2 / 10
+
+===== PAGE 73 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGUV UNDER VEHICLE SURVEILLANCE SYSTEMS
+NGUV-110F
+NGUV-110F
+Flush Mount Dual Mode Under Vehicle Scanning System
+Flush-mounted scanning lane with a stainless steel cover less than 3 cm above ground. Scans vehicle chassis for
+suspicious objects and contraband at up to 100 km/h - ideal for government, military, transportation and corporate
+checkpoints.
+DUAL MODE SCANNER
+Generates area scan and linear scan images simultaneously - speed
+tolerance plus AI-ready consistency.
+HIGH RESOLUTION
+Outputs 4096P color images (>10000 x 4096) in real time with
+>99.9% capture rate.
+BI-DIRECTIONAL
+Embedded triggers plus front/rear license plate recognition in both
+directions.
+ULTRA SLIM INSTALL
+Digs less than 5 cm into ground; modular spare-part repair within 10
+minutes.
+Area Scan Speed Fwd 0-100 km/h / Bwd 0-25 km/h
+Chassis Height / Width 50-2000 mm / <4500 mm, no length limit
+Resolution / View Angle >10000 x 4096  /  >180 deg
+Load Bearing 60 tonnes (vehicle weight)
+Scanner Size / Weight 1200 x 300 x 75 mm / 27 kg
+Protection / Temp IP68  /  -40C ~ 70C
+LPR Camera 1080P CMOS, H264/H265, >99.5%, IP65
+Control Box 2-ch detector, 8-port POE, AC 220V
+System includes Under Vehicle Scanner, LPR Camera, Server, Control Box and
+Speed Ramp. Optional surrounding cameras for all-round surveillance.
+www.Nooksguard.com  |  (516) 980-2444 3 / 10
+
+===== PAGE 74 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGUV UNDER VEHICLE SURVEILLANCE SYSTEMS
+NGUV-110S
+NGUV-110S
+Surface Mount Dual Mode Under Vehicle Scanning System
+Surface-mounted scanning system that requires no digging - total installed height under 7 cm with integrated
+ramps. Same dual-mode imaging core as the flush version, deployed in a fraction of the time.
+NO CIVIL WORK
+Sits directly on the road surface - no trenching, fastest fixed
+installation.
+DUAL MODE SCANNER
+Area + linear scan simultaneously; robust against lens contamination
+and speed change.
+REAL-TIME 4096P
+Scanned chassis sections appear on the display in real time at
+>99.9% capture rate.
+RUGGED BUILD
+304 stainless steel protector, 40-tonne load bearing, IP68.
+Area Scan Speed Fwd 0-45 km/h / Bwd 0-15 km/h
+Chassis Height / Width 80-2000 mm / <4500 mm, no length limit
+Resolution / View Angle >10000 x 4096  /  >180 deg
+Load Bearing 40 tonnes (vehicle weight)
+Scanner Size / Weight 1200 x 280 x 69 mm / 37 kg
+Above Ground 7 cm total height
+Protection / Temp IP68  /  -40C ~ 70C
+LPR Camera 1080P CMOS, H264/H265, >99.5%, IP65
+System includes Under Vehicle Scanner, LPR Camera, Server, Control Box and
+Speed Ramp. Modular design - spare-part repair within 10 minutes.
+www.Nooksguard.com  |  (516) 980-2444 4 / 10
+
+===== PAGE 75 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGUV UNDER VEHICLE SURVEILLANCE SYSTEMS
+NGUV-110P
+NGUV-110P
+Portable Dual Mode Under Vehicle Scanning System
+Everything packs into a wheeled Mobile Server Cart with rugged battery for up to 8 hours of work - roll it to any
+checkpoint, deploy the ramp scanner and start scanning within minutes.
+FULLY PORTABLE
+Scanner, LPR camera and tripod pack into the mobile cart -
+single-team deployment.
+8-HOUR BATTERY
+48V/11Ah rugged battery embedded in the cart powers a full shift
+without mains.
+27-INCH MONITOR
+IPS 1080P display in the cart lid for detailed chassis inspection on
+site.
+DUAL MODE SCANNER
+Same 4096P dual-mode imaging core, up to 45 km/h vehicle speed.
+Area Scan Speed Fwd 0-45 km/h / Bwd 0-15 km/h
+Chassis Height / Width 80-2000 mm / <4500 mm, no length limit
+Resolution / View Angle >10000 x 4096  /  >180 deg
+Load Bearing 40 tonnes (vehicle weight)
+Scanner Size / Weight 590 x 300 x 69 mm / 22 kg
+Cart / Battery 774 x 677 x 514 mm, 40 kg / >8 h
+Protection / Temp IP68 scanner  /  -40C ~ 70C
+LPR Camera 1080P CMOS on tripod, >99.5%, IP65
+System includes Under Vehicle Scanner, LPR Camera with tripod, Mobile Server
+Cart with monitor and battery, and Speed Ramp.
+www.Nooksguard.com  |  (516) 980-2444 5 / 10
+
+===== PAGE 76 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGUV UNDER VEHICLE SURVEILLANCE SYSTEMS
+NGUV-260
+NGUV-260
+3D Dual-View Under Vehicle Scanning System
+Two tilted scan views (front + back) build a 3D dynamic image of the chassis - revealing threats hidden above
+bumpers and beams that traditional vertical-view systems cannot see.
+DUAL VIEW ANGLE
+Tilt-to-front and tilt-to-back scanners expose objects hidden above
+beams and bumpers.
+3D DYNAMIC IMAGES
+Dual views combine into a 3D impression for confident threat
+localisation.
+4K IMAGE SENSOR
+New sensor renders text on the chassis clearly with brighter
+suspension areas.
+AREA SCAN CORE
+Auto speed matching - image quality unaffected by speed change or
+stops; AI-ready.
+FLEXIBLE TRIGGERS
+Embedded trigger, loop sensor control and external radar/laser
+triggers.
+Area Scan Speed Bidirectional 0-60 km/h
+Chassis Height / Width 50-2000 mm / <4500 mm, no length limit
+Resolution >6000 x 4096, real time, >99.9%
+Load Bearing / Above Ground 20 tonnes / 8 mm
+Scanner Size / Weight 1340 x 480 x 118 mm / 67 kg
+Protection / Temp IP68  /  -40C ~ 70C
+Operation Desk i5, 8G, 128G+1T, 27-inch IPS 1080P
+Distribution Box 2-ch loop + 2-ch trigger, 4-port POE
+System includes Dual-View Scanner, Operation Desk and Distribution Box.
+Single-view variant available for budget-focused projects.
+www.Nooksguard.com  |  (516) 980-2444 6 / 10
+
+===== PAGE 77 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGUV UNDER VEHICLE SURVEILLANCE SYSTEMS
+IMAGING TECHNOLOGY
+WHY DUAL MODE AND DUAL VIEW MATTER
+LINEAR SCAN
+High image generation rate regardless of harsh
+environment and lens contamination - the workhorse
+mode.
+AREA SCAN
+Auto-matches vehicle speed; low distortion and consistent
+images of the same vehicle - the foundation for AI
+algorithms and big-data comparison.
+DUAL VIEW (NGUV-260)
+Tilted front/back views detect threats above bumpers and
+beams that vertical cameras miss - combined into 3D
+dynamic images.
+REAL SCAN RESULTS - SEDAN, BUS, TRUCK AND TRAILER
+www.Nooksguard.com  |  (516) 980-2444 7 / 10
+
+===== PAGE 78 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGUV UNDER VEHICLE SURVEILLANCE SYSTEMS
+HANDHELD INSPECTION MIRRORS
+NGUV-M SERIES - HANDHELD INSPECTION MIRRORS
+Telescopic convex mirrors with LED illumination for rapid manual checks at gates, patrols and event entrances.
+NGUV-M2
+20cm Round Mirror
+1.5x magnification
+Pole 500-1100 mm
+9-LED flashlight
+One-hand operation, 0.6 kg
+NGUV-M16
+16cm Compact Mirror
+1.5x magnification
+Extends 520-1600 mm
+Built-in bottom LED
+Ultra light, 0.42 kg
+NGUV-M3
+30cm Wheeled Mirror
+2x magnification
+Pole 900-1200 mm
+Universal casters
+9-LED flashlight
+NGUV-M3Z
+30cm Dual-Axle Mirror
+2x magnification
+Pole 510-1070 mm
+Dual-axle casters
+Multi-function flashlight
+NGUV-M4
+40cm T-Grip Mirror
+2x magnification
+T-grip, pole 550-1080 mm
+Dual-axle casters
+For trucks & buses
+NGUV-M5
+30cm Square Mirror
+2x magnification
+Pole 500-1100 mm
+Long LED light bar
+Universal casters
+www.Nooksguard.com  |  (516) 980-2444 8 / 10
+
+===== PAGE 79 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGUV UNDER VEHICLE SURVEILLANCE SYSTEMS
+VIDEO INSPECTION POLES
+NGUV-V SERIES - VIDEO INSPECTION POLES
+When a mirror is not enough: camera poles with screens record what the officer sees - night vision, waterproof lenses and multimedia storage for evidence.
+NGUV-V1
+Video Inspection Pole
+Camera pole with top-mounted screen for live under-body
+viewing.
+Video recording + photo capture
+Night vision, waterproof lens
+Multimedia system
+Pole 1200-1400 mm
+NGUV-V2
+Night Vision Inspection Pole
+Same rugged pole platform focused on night-vision photo
+documentation.
+Night vision + photo capture
+Multimedia system
+Waterproof lens
+Pole 1200-1400 mm
+NGUV-V3
+Dual-Camera HD Inspection Pole
+Dual cameras with a large HD screen for detailed
+evidence-grade review.
+Dual cameras
+HD large screen
+Photo + recording, multimedia
+Pole 500-1100 mm
+www.Nooksguard.com  |  (516) 980-2444 9 / 10
+
+===== PAGE 80 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+SECURITY & THREAT DETECTION
+CONTENTS
+PRODUCT CATEGORIES
+SECURITY & THREAT DETECTION
+01 EXPLOSIVE DETECTION DEVICES
+Portable and handheld trace explosive and narcotics detectors.
+5 models  -  NGED-6, NGED-4800, NGED-3, NGED-4, NGED-410
+02 LIQUID & BOTTLE INSPECTION
+Desktop dangerous liquid screening instruments.
+2 models  -  NGLQ-1800, NGLQ-2800
+03 RADIATION MONITORING EQUIPMENT
+Portable and wearable radiation dose monitoring instruments.
+2 models  -  NGRD-3000, NGRD-ALM
+04 CHEMICAL & GAS DETECTION
+Chemical warfare agent and multi-gas detection instruments.
+2 models  -  NGCG-300, NGCG-MULTI
+www.Nooksguard.com  |  (516) 980-2444 2 / 8
+
+===== PAGE 81 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+SECURITY & THREAT DETECTION
+EXPLOSIVE DETECTION DEVICES
+01  EXPLOSIVE DETECTION DEVICES
+Trace Explosive & Narcotics Detectors
+NGED-6
+Portable Trace Explosive
+Detector
+NGED-4800
+Explosive & Narcotics
+Detector
+NGED-3
+Multi-Functional Prohibited
+Item Detector
+NGED-4
+Quantum Trace Explosive &
+Drug Detector
+NGED-410
+Handheld Raman Substance
+Identifier
+Illustrative device rendering
+NGED-6 SPECS
+Sensitivity <=10^-12 g (TNT)
+Start-up time <=10 sec
+Weight 500 g
+Battery life >=12 hours
+Data storage 1.1M records
+NGED-4800 SPECS
+Sensitivity Nanogram level
+Start-up time <=10 sec
+False alarm rate <=1%
+Battery life >=12 hours
+Alarm sound >=95 dB
+NGED-3 SPECS
+Technology Ion Mobility Spectrometry
+Sensitivity ng ~ pg (TNT 200pg)
+Analysis time 2-32 sec
+Data storage >=300,000 records
+Battery >5 hrs continuous
+NGED-4 SPECS
+Technology Photoionization + IMS
+Sensitivity ng / pg level
+Analysis time <=3 sec
+False alarm rate <=1%
+Weight 4.8 kg
+NGED-410 SPECS
+Detection speed Seconds
+Sample prep None required
+Method Non-contact, non-destructive
+Resolution 6 cm-1
+Mixture detection Up to 5 components
+Applications: airports, metro stations, customs, border checkpoints, courthouses, embassies, large public events, and courier/logistics screening.
+www.Nooksguard.com  |  (516) 980-2444 3 / 7
+
+
+===== PAGE 82 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+SECURITY & THREAT DETECTION
+LIQUID & BOTTLE INSPECTION
+02  LIQUID & BOTTLE INSPECTION
+Desktop Dangerous Liquid Detection Instruments
+NGLQ-1800
+Desktop Dangerous Liquid Detector
+NGLQ-2800
+Desktop Dangerous Liquid Inspector
+NGLQ-1800 SPECS
+Detection method UWB microwave reflection + thermal conductivity
+Detection speed 1 second
+Detectable liquids 40+ types, incl. low-alcohol spirits
+Container material Plastic, glass, ceramic
+Bottle diameter 30-200 mm
+Dimensions 320 x 230 x 190 mm
+Weight <=6.8 kg
+Power 8 W
+NGLQ-2800 SPECS
+Detection method UWB microwave reflection + thermal conductivity
+Detection speed 1 second (insulated); <5 sec (metal)
+Detectable liquids 40+ types, incl. acids
+Container material Metal, plastic, glass, ceramic
+Display 7 in foldable touchscreen
+Dimensions 460 x 350 x 190 mm
+Weight <=12 kg
+Power 10 W
+Applications: transit stations, subways, government buildings, stadiums, and other high-traffic venues requiring dangerous liquid screening before entry.
+www.Nooksguard.com  |  (516) 980-2444 4 / 7
+
+===== PAGE 83 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+SECURITY & THREAT DETECTION
+RADIATION MONITORING EQUIPMENT
+03  RADIATION MONITORING EQUIPMENT
+Portable & Wearable Radiation Monitors
+NGRD-3000
+Portable Radiation Inspection Device
+NGRD-ALM
+Wearable Radiation Alarm
+NGRD-3000 SPECS
+Dose rate range 0.01-200 uGy/h
+Cumulative dose 0-9.99 Sv
+Energy response 35 keV-3.0 MeV
+Positioning Built-in GPS
+Battery life >8 hours
+Weight ~1800 g
+NGRD-ALM SPECS
+Detector type Scintillation crystal + SiPM
+Dose rate range 0.01 uSv/h - 150 mSv/h
+Energy range 35 keV-3 MeV
+Protection IP67
+Battery life >40 hours
+Weight <=50 g
+Applications: port and border radiation screening, civil defense, special patrol units, and personal dose monitoring for personnel working in radioactive environments.
+www.Nooksguard.com  |  (516) 980-2444 5 / 7
+
+===== PAGE 84 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+SECURITY & THREAT DETECTION
+CHEMICAL & GAS DETECTION
+04  CHEMICAL & GAS DETECTION
+Chemical Warfare Agent & Multi-Gas Detectors
+NGCG-300
+Chemical Warfare Agent Alarm
+NGCG-MULTI
+Multi-Gas Composite Detector
+NGCG-300 SPECS
+Detects G/V-series nerve agents, AC, COCl2
+Display 2.4 in HD color screen
+Sensor High-performance imported array
+Protection Dustproof, explosion-proof, waterproof
+Weight <=350 g
+Dimensions <=179x76x49 mm
+NGCG-MULTI SPECS
+Detectable gases PID/LEL/CO/H2S/O2 (configurable)
+Sampling Active pump, 500 mL/min
+Response time <=20 sec (T90)
+Data storage 300,000 records
+Protection IP67; Ex ia IIC T4 Ga
+Weight <=750 g
+Applications: emergency response, fire services, industrial safety, mining, environmental protection, and public safety operations requiring chemical or gas hazard detection.
+www.Nooksguard.com  |  (516) 980-2444 6 / 7
+
+===== PAGE 85 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGTS TSCM & COUNTER-SURVEILLANCE
+PORTFOLIO OVERVIEW
+SIX FAMILIES COVER THE FULL TSCM WORKFLOW
+From hotel-chain camera sweeps to 24GHz spectrum monitoring: detect hidden cameras, locate smart terminals, analyse WiFi threats, sweep RF environments and protect confidential
+speech.
+MODEL FAMILY KEY CAPABILITY BEST FIT
+NGTS-C1 Hotel Camera Detector WiFi/4G camera auto-alert, central platform reporting Hotel groups, chain operations
+NGTS-C2 Multi-Mode Camera Detector Compact pinhole-camera scanner, one-key sweep Personal privacy, guest rooms
+NGTS-T10 / T10W Smart Terminal Detectors Phone/tablet/wearable ID, BT5.0 (+WiFi on T10W) Confidential meeting control
+NGTS-W2 / W3 Handheld WiFi Inspectors Signal analysis, precise locating, countermeasures Wireless environment audits
+NGTS-H67 / H67R Handheld Signal Detectors 6.67-inch 2-5G all-carrier, WiFi/BT, 1MHz-12GHz (+IR on H67R) Field sweeps, GPS tracker finding
+NGTS-H55 / H55R Handheld Signal Detectors 5.5-inch Same core in a compact body (+IR on H55R) Rapid portable sweeps
+NGTS-P6 / PU6 Portable Detectors 10-inch, 6GHz Multi-signal + thermal imaging (+endoscope on PU6) Professional TSCM teams
+NGTS-P14 / PU14 Portable Detectors 10-inch, 14GHz Extended spectrum + thermal (+endoscope on PU14) High-security facilities
+NGTS-P24 / PU24 Portable Detectors 10-inch, 24GHz Widest spectrum + thermal (+endoscope on PU24) Government-grade sweeps
+NGTS-S1 Desktop Audio Protector Continuous-power speech protection terminal Boardrooms, negotiations
+NGTS-M6 / M14 /
+M24
+Desktop Long-Term Monitors 24/7 spectrum monitoring 6 / 14 / 24 GHz classes Permanent secure rooms
+www.Nooksguard.com  |  (516) 980-2444 2 / 10
+
+===== PAGE 86 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGTS TSCM & COUNTER-SURVEILLANCE
+CAMERA DETECTION
+CAMERA DETECTION - FIND EVERY HIDDEN LENS
+Purpose-built detectors for the most common threat in hospitality: hidden pinhole cameras.
+NGTS-C1
+Hotel-Group Camera Detector
+Military/police-grade smart detection developed for hotel groups: a one-stop pinhole-camera
+solution for every property.
+WiFi / 4G camera auto-alert with precise identification
+Filters phone activity to reduce false alarms
+Instant inspection reports - store self-check + HQ platform
+Fleet-scale digital management for chains
+NGTS-C2
+Multi-Mode Camera Detector
+Compact multi-mode scanner designed as the first line of personal privacy defense.
+One-key scan with tracker-check mode
+Whitelist management for known devices
+Ideal for hotels, rentals, fitting rooms, offices
+Pocket-sized, simple operation
+www.Nooksguard.com  |  (516) 980-2444 3 / 10
+
+===== PAGE 87 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGTS TSCM & COUNTER-SURVEILLANCE
+TERMINAL DETECTION
+SMART TERMINAL DETECTION - CONTROL THE MEETING ROOM
+Detect and locate phones, tablets, laptops and wearables - including brand and model identification.
+NGTS-T10
+Smart Terminal Detector
+Detects iPhone, Samsung and domestic brands across phones, laptops, tablets and
+wearables via BT5.0.
+Brand-level identification incl. Apple model detection
+Signal-feature locating with visual + audio feedback
+4-antenna array on 10-inch class display
+Meeting-room no-phone policy enforcement
+NGTS-T10W
+Smart Terminal Detector (+WiFi)
+All NGTS-T10 capability plus WiFi-signal detection for complete terminal coverage.
+BT5.0 + WiFi signal detection
+Brand-level identification incl. Apple model detection
+Signal-feature locating with visual + audio feedback
+Extended coverage of WiFi-only devices
+www.Nooksguard.com  |  (516) 980-2444 4 / 10
+
+===== PAGE 88 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGTS TSCM & COUNTER-SURVEILLANCE
+WIFI INSPECTION
+HANDHELD WIFI INSPECTION - AUDIT THE AIRSPACE
+Analyse and locate phones, computers and wireless cameras through their WiFi emissions - with optional countermeasures.
+NGTS-W2
+Handheld Pro WiFi Inspector
+Demodulates the signals between terminals and access points to map the wireless
+environment.
+Network / AP / terminal / channel views
+Signal-strength based precise locating
+Interference countermeasure against target signals
+Compact rugged handheld
+NGTS-W3
+Handheld Pro WiFi Inspector II
+Extended platform with radar view, counterfeit-hotspot detection and thermal camera.
+WiFi radar map, channel map and key-target detection
+Fake-hotspot and active-link detection
+WiFi countermeasure capability
+Environment camera + IR thermal imaging
+www.Nooksguard.com  |  (516) 980-2444 5 / 10
+
+===== PAGE 89 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGTS TSCM & COUNTER-SURVEILLANCE
+HANDHELD SIGNAL DETECTORS
+NGTS-H SERIES - HANDHELD FULL-SIGNAL DETECTORS
+All-carrier cellular, WiFi, Bluetooth and 1MHz-12GHz spectrum detection with GPS-tracker and FM-bug alerts. R versions add 256x192 infrared thermal imaging.
+NGTS-H67
+6.67-inch Signal Detector
+2/3/4/5G all-carrier detection
+WiFi 2.4/5.8G incl. hidden hotspots + camera alerts
+Bluetooth scan: name, MAC, vendor, strength
+1MHz-12GHz spectrum, FM-bug & GPS-tracker alerts
+NGTS-H67R
+6.67-inch + Thermal
+All NGTS-H67 detection capability
+256x192 infrared thermal imaging
+Image temperature measurement
+Signal + heat dual confirmation
+NGTS-H55
+5.5-inch Signal Detector
+Same full-signal core, compact 5.5-inch body
+WiFi / Bluetooth / cellular / spectrum
+Micro-pointer directional antenna support
+GPS-tracker & FM-bug alerts
+NGTS-H55R
+5.5-inch + Thermal
+All NGTS-H55 detection capability
+256x192 infrared thermal imaging
+Image temperature measurement
+Signal + heat dual confirmation
+www.Nooksguard.com  |  (516) 980-2444 6 / 10
+
+===== PAGE 90 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGTS TSCM & COUNTER-SURVEILLANCE
+PORTABLE DETECTORS WITH THERMAL IMAGING
+NGTS-P SERIES - 10-INCH PORTABLE DETECTORS WITH THERMAL IMAGING
+One integrated platform: WiFi, Bluetooth, cellular, spectrum and infrared thermal detection with real-time alerts for GPS trackers, bugs, Bluetooth tags and WiFi spy cameras. Choose the
+spectrum ceiling and the U-version adds camera-lens endoscope and laser detection.
+MODEL SPECTRUM THERMAL ENDOSCOPE + LASER
+NGTS-P6 1MHz - 6GHz Yes -
+NGTS-PU6 1MHz - 6GHz Yes Yes
+NGTS-P14 1MHz - 14GHz Yes -
+NGTS-PU14 1MHz - 14GHz Yes Yes
+NGTS-P24 1MHz - 24GHz Yes -
+NGTS-PU24 1MHz - 24GHz Yes Yes
+ALL-IN-ONE DETECTION
+WiFi, Bluetooth, cellular (2/3/4/5G), full spectrum and thermal imaging in one
+10-inch unit.
+THREAT ALERTS
+Real-time warning and precise locating of GPS trackers, audio bugs, Bluetooth tags
+and WiFi spy cameras.
+U-VERSION EXTRAS
+Endoscope inspection and laser camera-lens detection for physical search of walls,
+fixtures and vehicles.
+Shared platform: 10-inch touch display, integrated antenna set, report export. Spectrum ceiling and accessory kit are
+the only differences across the six variants.
+www.Nooksguard.com  |  (516) 980-2444 7 / 10
+
+===== PAGE 91 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGTS TSCM & COUNTER-SURVEILLANCE
+AUDIO PROTECTION & LONG-TERM MONITORING
+PROTECT THE ROOM - AROUND THE CLOCK
+NGTS-S1
+Desktop Speech Protection Terminal
+Discreet desktop terminal that protects conversations in meetings, offices and training
+rooms by controlling the acoustic environment against recording devices.
+Discreet everyday desktop form factor
+Built-in power supply, continuous power adjustment
+Simple operation, stable long-term running
+Remote-control operation
+NGTS-M6 / M14 / M24
+Desktop Long-Term Signal Monitoring Systems
+Continuous spectrum monitoring for permanently protected rooms - classifies and alerts on
+cellular, hotspot, Bluetooth, suspected-camera and suspected-espionage signals.
+Spectrum ceilings: M6 = 6GHz / M14 = 14GHz / M24 = 24GHz
+All 2G/3G/4G/5G protocols, 2.4/5.8GHz WiFi, Bluetooth
+Classified alerts incl. suspected cameras and bugs
+Real-time spectrum with waterfall display
+www.Nooksguard.com  |  (516) 980-2444 8 / 10
+
+===== PAGE 92 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGTS TSCM & COUNTER-SURVEILLANCE
+APPLICATIONS & SELECTION
+BUILD A LAYERED COUNTER-SURVEILLANCE PROGRAM
+Hotel chain - room sweeps with central reporting NGTS-C1 fleet + NGTS-C2 spot checks
+No-phone confidential meetings NGTS-T10 / T10W + NGTS-S1
+Wireless environment audit & rogue AP hunting NGTS-W2 / W3
+Field TSCM sweep, trackers & bugs NGTS-H67R / H55R (with thermal)
+Professional facility sweep, deep spectrum NGTS-P24 / PU24
+Permanent secure room, 24/7 watch NGTS-M6 / M14 / M24
+HOTELS & HOSPITALITY
+Digitalised camera sweeps: store-level self-checks with head-office platform oversight and
+auto reports.
+GOVERNMENT & DEFENSE
+Layered detection from handheld sweeps to 24GHz continuous monitoring of secure rooms.
+CORPORATE SECURITY
+Boardroom speech protection plus meeting-time terminal detection and WiFi audits.
+EXECUTIVE PROTECTION
+Travel kits: compact camera detectors, tracker finders and thermal-assisted sweeps.
+IMPORTANT: Counter-surveillance and countermeasure equipment is regulated in many jurisdictions. Deployment must comply with the laws and licensing requirements of the destination country.
+www.Nooksguard.com  |  (516) 980-2444 9 / 10
+
+===== PAGE 93 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGJM SIGNAL JAMMING SOLUTIONS
+PRODUCT LINEUP
+TWO PLATFORMS, ONE SDR JAMMING CORE
+Both NGJM platforms are built on SDR (Software Defined Radio) architecture: they jam terminal devices without interfering with operator base stations, and jamming bands can
+be upgraded by software as communication standards evolve.
+NGJM-500
+Indoor 5G Signal Jammer
+Wall-mounted signaling-level shielding for confidential meeting rooms and offices. One
+unit covers a 60 sqm indoor area with no external antenna.
+Coverage 60 sqm indoor area
+Targets 2G/3G/4G/5G, Bluetooth, WiFi
+RF Power <25W total
+Form Wall-mount, no external antenna
+NGJM-6500
+Portable Full-Band Frequency Jammer
+One-person-portable full-band jammer covering 8MHz-6500MHz - from UAV remote
+control links to 5G cell phones - with per-band selective control.
+Coverage 8MHz - 6500MHz full band
+Jamming Distance >= 40m mobile / >= 500m UAV
+Output Power <= 320W
+Form Rugged case, IP54, battery 70 min
+www.Nooksguard.com  |  (516) 980-2444 2 / 6
+
+===== PAGE 94 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGJM SIGNAL JAMMING SOLUTIONS
+MODEL 01 / 02
+MODEL 01/02
+NGJM-500
+Indoor 5G Signal Jammer - Signaling-Level Shielding
+Effectively jams 2G/3G/4G/5G mobile networks, Bluetooth and WiFi. The SDR signaling-level design acts only on
+terminal equipment - it does not interfere with operator base stations or public communication services. Designed
+for government, defense and other confidential facilities.
+SIGNALING-LEVEL JAMMING
+SDR technology solves the classic problems of 5G jamming and
+re-farmed frequency bands.
+STABLE BEHAVIOUR
+One unit shields a 60 sqm indoor area with stable long-term jamming.
+INTEGRATED DESIGN
+No external antenna - excellent concealment on walls and ceilings.
+INTELLIGENT JAMMING
+Automatically detects the environmental spectrum and adapts its
+jamming strategy.
+CERTIFIED
+Tested and certified by authoritative institutions to mobile-jammer
+industry standards.
+Interference Mode SDR (Software Defined Radio)
+Interference Distance High 10-12m / Mid 8-10m / Low 6-8m
+RF Channels 15  (single channel <2W)
+Whole RF Power <25W
+Antenna Built-in directional, >120 deg, 15 units
+Power Supply Built-in AC/DC adapter, scheduled on/off
+Size / Weight 348 x 287 x 62 mm  /  2.6 kg
+Temperature Working -20C~40C / Storage -40C~70C
+Distances measured at environmental background RSRP -85dBm ~ -90dBm.
+www.Nooksguard.com  |  (516) 980-2444 3 / 6
+
+===== PAGE 95 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGJM SIGNAL JAMMING SOLUTIONS
+MODEL 02 / 02
+MODEL 02/02
+NGJM-6500
+Portable SDR Full-Band Frequency Jammer
+Full-band coverage from 8MHz to 6500MHz jams remote-control devices (UAVs / unmanned vehicles),
+walkie-talkies, 2G-5G cell phones, cordless phones, Bluetooth and WiFi. Built-in battery supports up to 70 minutes
+of continuous operation - built for EOD, anti-terrorist and technical reconnaissance missions.
+FULL-BAND JAMMING
+8MHz-6500MHz covers low-frequency point-to-point remote control
+and high-frequency 5G signals.
+SECOND-LEVEL DEPLOYMENT
+Antenna integrated with the host - one-hand carry, single-operator
+deployment.
+ADAPTIVE JAMMING
+Jamming codes adjust dynamically to target frequency and power for
+optimal effect.
+DIVIDING-BAND CONTROL
+Each band/channel independently controlled - jam selectively while
+retaining critical comms.
+OMNI-DIRECTIONAL
+High-gain omni antennas cover targets in all directions across a 360
+deg range.
+Jamming Mechanism SDR (Software Defined Radio)
+Frequency Range 8MHz - 6500MHz
+Jamming Distance >=40m mobile / >=500m UAV / >=40m radio
+Output Power <=320W
+Antenna Broadband omni-directional, integrated
+Power Supply AC 220V / built-in battery (70 min)
+Protection / Size IP54  /  570 x 343 x 678 mm (+/-20mm)
+Weight / Temperature <48 kg  /  -20C ~ +45C
+Mobile-communication distance measured at background RSRP -90dBm;
+walkie-talkie reference 3W transmit power.
+www.Nooksguard.com  |  (516) 980-2444 4 / 6
+
+===== PAGE 96 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+NGJM SIGNAL JAMMING SOLUTIONS
+APPLICATIONS & SELECTION
+MATCH THE PLATFORM TO THE MISSION
+CONFIDENTIAL MEETINGS
+Boardrooms, government offices and secure facilities where phones and wireless links
+must stay silent - discreet wall-mount shielding.
+NGJM-500
+EXAM & DETENTION FACILITIES
+Long-term stable indoor shielding without affecting public networks outside the protected
+area.
+NGJM-500
+EOD & COUNTER-TERRORISM
+Cut remote-control links to suspicious devices and UAVs during response operations.
+NGJM-6500
+VIP & EVENT PROTECTION
+Rapid-deployment 360-degree jamming bubble for motorcades, venues and temporary
+checkpoints.
+NGJM-6500
+SELECTION GUIDE
+Fixed indoor shielding, concealed install NGJM-500
+Mobile missions, UAV / remote-control threats NGJM-6500
+Keep operator networks untouched Both - SDR terminal-side jamming
+Selective band retention (keep own comms) NGJM-6500 dividing-band control
+IMPORTANT: Radio jamming equipment is regulated. Deployment must comply with local laws and licensing requirements of the destination country.
+www.Nooksguard.com  |  (516) 980-2444 5 / 6
+
+===== PAGE 97 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+PRODUCT CATALOG  /  US MARKET
+ANTI-RECORDING SOLUTION
+NG-6xx Series
+AUDIO PROTECTION SYSTEM FOR CONFERENCE ROOMS
+A complete, manageable audio jamming system that protects
+conference rooms from covert recording, combining a control
+terminal with under-desk and desktop jammer units.
+ULTRASONIC SHIELD UP TO 32 UNITS NO RADIATION
+NG-601 control terminal with NG-615 / NG-616 audio jammers.
+HOW THE SYSTEM WORKS
+Comprehensive protection. Manageable and controllable.
+Self-developed ultrasonic mixers effectively shield portable recording devices and eavesdropping devices in the table area. Ultrasonic band noise interference is imperceptible
+to the human ear and emits no harmful radiation, in compliance with relevant industry standards.
+NET
+WiFi / 100M
+Ethernet BLE
+BLE / RS232
+downlink RNG
+>10m wireless
+range CTRL
+Up to 32
+slave units APP
+Central mgmt.
+app SAFE
+No harmful
+radiation
+www.Nooksguard.com  |  Call (516) 980-2444  |  System covers NG-601 control terminal, NG-615 and NG-616 audio jammers.
+
+===== PAGE 98 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MODEL SPECIFICATIONS
+THREE UNITS, ONE SYSTEM
+Choose the right unit for every seat.
+NG-601
+Control Terminal
+NG-615
+Under-desk Audio Jammer
+NG-616
+Desktop Audio Jammer
+NG-601 Control Terminal NG-615 Under-desk Jammer NG-616 Desktop Jammer
+Uplink WiFi / 100M Ethernet
+Downlink BLE / RS232
+Wireless range >10m
+Remote control 315MHz supported
+Slave devices up to 32
+Interactive mode 3.92in 320x320 touch
+Voltage / power DC 5V, <10W
+Size 86.75x86.75x21.65mm
+Weight approx. 113g
+Working temp. -10C ~ 45C
+Jamming coverage 120 degrees
+Networking BLE / RS232
+Wireless range >10m
+Power consumption <45W
+Number of probes 72
+Size 325x96x64mm
+Color Silver gray
+Weight 730g
+Working temp. -10C ~ +45C
+Humidity <=85%, no condensate
+Jamming coverage 60 degrees
+Networking BLE / RS232
+Wireless range >10m
+Power consumption <50W
+Number of probes 96
+Size 354x127x26mm
+Color Silver gray
+Weight 1445g
+Working temp. -10C ~ +45C
+Humidity <=85%, no condensate
+www.Nooksguard.com  |  Call (516) 980-2444  |  NG-601 / NG-615 / NG-616 anti-recording solution for conference rooms.
+
+===== PAGE 99 =====
+NOOKSGUARD
+SECURITY SOLUTIONS
+MASTER CATALOG  /  COMPLIANCE & CONTACT
+COMPLIANCE, SERVICE & CONTACT
+One final reference point for the complete Nooksguard product portfolio.
+CERTIFICATION SUPPORT
+CE / FCC / RoHS / ISO and model-specific documentation available according to project requirements.
+CONFIGURATION CONFIRMATION
+Final technical schedules, options and test conditions are confirmed before quotation and order.
+PROJECT SERVICES
+Sample evaluation, remote training, OEM / ODM support and deployment consultation.
+REGULATORY NOTE
+Use and deployment must comply with the destination country laws, licensing and site procedures.
+GLOBAL CONTACT
+WEBSITE
+www.Nooksguard.com
+PHONE & SUPPORT
+(516) 980-2444
+PROJECT INQUIRIES
+sales@Nooksguard.com
+VERIFIED PROTECTION
+Confirmed, Not Assumed.
+www.Nooksguard.com  |  (516) 980-2444 FINAL PAGE

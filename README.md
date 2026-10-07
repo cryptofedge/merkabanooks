@@ -7,6 +7,12 @@ programs, nonprofits, and commercial/residential clients.
 Built with Next.js App Router, Tailwind CSS, Framer Motion, GSAP + ScrollTrigger,
 and React Three Fiber.
 
+Also includes **Nooksguard Security Solutions** (`/security`), a sister
+product line's catalog accessible via the logo button at the end of the
+shop category nav. It's a large, in-progress build — see
+[`src/lib/nooksguard/PROGRESS.md`](src/lib/nooksguard/PROGRESS.md) for what's
+live vs. pending.
+
 ## Stack
 
 - **Next.js 16** (App Router, Turbopack)
