@@ -13,11 +13,17 @@ import {
   UtensilsCrossed,
   type LucideIcon,
 } from "lucide-react";
+import type { ShapeKind, ShapeVariant } from "@/components/product-shapes";
 
 export interface Product {
+  slug: string;
   name: string;
   price: number;
   description: string;
+  image: string;
+  shape: ShapeKind;
+  accentHex: string;
+  shapeVariant?: ShapeVariant;
 }
 
 export interface Category {
@@ -28,6 +34,27 @@ export interface Category {
   products: Product[];
 }
 
+function product(
+  slug: string,
+  name: string,
+  price: number,
+  description: string,
+  shape: ShapeKind,
+  accentHex: string,
+  shapeVariant?: ShapeVariant
+): Product {
+  return {
+    slug,
+    name,
+    price,
+    description,
+    image: `/products/items/${slug}.jpg`,
+    shape,
+    accentHex,
+    shapeVariant,
+  };
+}
+
 export const CATEGORIES: Category[] = [
   {
     slug: "dining",
@@ -35,10 +62,10 @@ export const CATEGORIES: Category[] = [
     icon: UtensilsCrossed,
     description: "Dining sets and seating built for daily institutional use or residential comfort.",
     products: [
-      { name: "5-Piece Wood Dining Set", price: 649, description: "Solid wood table with four matching chairs." },
-      { name: "Counter-Height Bistro Table", price: 329, description: "Compact table for common areas and break rooms." },
-      { name: "Stackable Banquet Chair (Set of 4)", price: 219, description: "Commercial-grade, stacks for easy storage." },
-      { name: "Commercial Round Dining Table – 48in", price: 389, description: "Laminate top rated for high-traffic dining halls." },
+      product("5-piece-wood-dining-set", "5-Piece Wood Dining Set", 649, "Solid wood table with four matching chairs.", "table", "#6b4226"),
+      product("counter-height-bistro-table", "Counter-Height Bistro Table", 329, "Compact table for common areas and break rooms.", "table", "#8a5a34", { scale: [1, 0.6, 1] }),
+      product("stackable-banquet-chair", "Stackable Banquet Chair (Set of 4)", 219, "Commercial-grade, stacks for easy storage.", "chair", "#23262b"),
+      product("commercial-round-dining-table", "Commercial Round Dining Table – 48in", 389, "Laminate top rated for high-traffic dining halls.", "table", "#4b5563", { round: true }),
     ],
   },
   {
@@ -47,10 +74,10 @@ export const CATEGORIES: Category[] = [
     icon: Sofa,
     description: "Seating and lounge furniture for common areas, offices, and residential units.",
     products: [
-      { name: "3-Seat Sectional with Reversible Chaise", price: 899, description: "Performance fabric, stain resistant." },
-      { name: "Track-Arm Upholstered Sofa", price: 549, description: "Clean-lined sofa for lounges and lobbies." },
-      { name: "Accent Chair – Performance Fabric", price: 279, description: "Durable upholstery rated for daily use." },
-      { name: "Coffee Table – Solid Wood Top", price: 199, description: "Scratch-resistant finish, steel base." },
+      product("3-seat-sectional", "3-Seat Sectional with Reversible Chaise", 899, "Performance fabric, stain resistant.", "sofa", "#6b7280"),
+      product("track-arm-sofa", "Track-Arm Upholstered Sofa", 549, "Clean-lined sofa for lounges and lobbies.", "sofa", "#374151"),
+      product("accent-chair", "Accent Chair – Performance Fabric", 279, "Durable upholstery rated for daily use.", "chair", "#c98a3e"),
+      product("coffee-table", "Coffee Table – Solid Wood Top", 199, "Scratch-resistant finish, steel base.", "table", "#6b4226", { scale: [0.9, 0.22, 0.9] }),
     ],
   },
   {
@@ -59,10 +86,10 @@ export const CATEGORIES: Category[] = [
     icon: Baby,
     description: "Durable, safety-rated furniture for children's and family programs.",
     products: [
-      { name: "Twin Bunk Bed – Metal Frame", price: 389, description: "Safety-rail certified, space-saving design." },
-      { name: "Kids' Study Desk & Chair Set", price: 159, description: "Adjustable height, rounded edges." },
-      { name: "5-Drawer Dresser – Soft Close", price: 249, description: "Anti-tip hardware included." },
-      { name: "Foldable Storage Bench", price: 89, description: "Dual-purpose seating and toy storage." },
+      product("twin-bunk-bed", "Twin Bunk Bed – Metal Frame", 389, "Safety-rail certified, space-saving design.", "bunkBed", "#4b5563"),
+      product("kids-study-desk-chair", "Kids' Study Desk & Chair Set", 159, "Adjustable height, rounded edges.", "desk", "#e0a35c"),
+      product("5-drawer-dresser", "5-Drawer Dresser – Soft Close", 249, "Anti-tip hardware included.", "dresser", "#8a5a34", { scale: [0.9, 1.1, 0.5] }),
+      product("foldable-storage-bench", "Foldable Storage Bench", 89, "Dual-purpose seating and toy storage.", "bench", "#c98a3e"),
     ],
   },
   {
@@ -71,10 +98,10 @@ export const CATEGORIES: Category[] = [
     icon: BedDouble,
     description: "Bedroom packages sized for dorms, transitional units, and residential suites.",
     products: [
-      { name: "Twin Metal Bed Frame", price: 99, description: "No box spring required, easy assembly." },
-      { name: "Queen Platform Bed Frame", price: 219, description: "Reinforced steel slats, 700lb rated." },
-      { name: "6-Drawer Dresser", price: 329, description: "Full-extension drawers, solid wood legs." },
-      { name: "Nightstand with USB Charging", price: 79, description: "Built-in outlets for modern residents." },
+      product("twin-metal-bed-frame", "Twin Metal Bed Frame", 99, "No box spring required, easy assembly.", "bed", "#8a93a3", { scale: [1.1, 1, 1] }),
+      product("queen-platform-bed-frame", "Queen Platform Bed Frame", 219, "Reinforced steel slats, 700lb rated.", "bed", "#374151", { scale: [1.5, 1, 1] }),
+      product("6-drawer-dresser", "6-Drawer Dresser", 329, "Full-extension drawers, solid wood legs.", "dresser", "#6b4226", { scale: [1.2, 1.0, 0.55] }),
+      product("nightstand-usb", "Nightstand with USB Charging", 79, "Built-in outlets for modern residents.", "dresser", "#8a5a34", { scale: [0.5, 0.55, 0.45] }),
     ],
   },
   {
@@ -83,10 +110,10 @@ export const CATEGORIES: Category[] = [
     icon: Home,
     description: "Complete single-occupancy packages for shelters and transitional programs.",
     products: [
-      { name: "Starter Room Package (Bed, Desk, Storage)", price: 540, description: "Everything needed for one resident, bundled." },
-      { name: "Twin XL Mattress – Fire-Code Certified", price: 179, description: "Meets institutional fire-safety standards." },
-      { name: "Compact Wardrobe Unit", price: 149, description: "Fits tight footprints, no assembly tools needed." },
-      { name: "All-in-One Move-In Kit", price: 320, description: "Linens, housewares, and bedroom basics in one order." },
+      product("starter-room-package", "Starter Room Package (Bed, Desk, Storage)", 540, "Everything needed for one resident, bundled.", "bed", "#c98a3e", { scale: [1.1, 1, 1] }),
+      product("twin-xl-mattress", "Twin XL Mattress – Fire-Code Certified", 179, "Meets institutional fire-safety standards.", "bed", "#e0a35c", { headboard: false, scale: [1.05, 1, 1] }),
+      product("compact-wardrobe", "Compact Wardrobe Unit", 149, "Fits tight footprints, no assembly tools needed.", "dresser", "#6b4226", { scale: [0.7, 1.4, 0.5] }),
+      product("move-in-kit", "All-in-One Move-In Kit", 320, "Linens, housewares, and bedroom basics in one order.", "stack", "#8a5a34"),
     ],
   },
   {
@@ -95,10 +122,10 @@ export const CATEGORIES: Category[] = [
     icon: Building2,
     description: "Office and common-area furniture built for daily institutional throughput.",
     products: [
-      { name: "Task Chair – Adjustable Lumbar", price: 189, description: "8-hour rated, breathable mesh back." },
-      { name: "Height-Adjustable Desk", price: 449, description: "Electric sit-stand base, laminate top." },
-      { name: "4-Drawer Lateral File Cabinet", price: 259, description: "Lockable, fire-resistant rated." },
-      { name: "Reception Bench – 3 Seat", price: 399, description: "Waiting-area seating, commercial-grade frame." },
+      product("task-chair", "Task Chair – Adjustable Lumbar", 189, "8-hour rated, breathable mesh back.", "chair", "#23262b"),
+      product("height-adjustable-desk", "Height-Adjustable Desk", 449, "Electric sit-stand base, laminate top.", "desk", "#4b5563"),
+      product("lateral-file-cabinet", "4-Drawer Lateral File Cabinet", 259, "Lockable, fire-resistant rated.", "dresser", "#374151", { scale: [1.0, 1.3, 0.55] }),
+      product("reception-bench", "Reception Bench – 3 Seat", 399, "Waiting-area seating, commercial-grade frame.", "bench", "#6b7280", { scale: [1.3, 1, 1] }),
     ],
   },
   {
@@ -107,10 +134,10 @@ export const CATEGORIES: Category[] = [
     icon: Tv,
     description: "Essential electronics for common areas, offices, and residential units.",
     products: [
-      { name: "32in LED Television", price: 179, description: "HD display for common rooms and units." },
-      { name: "Microwave – 0.9 cu ft", price: 89, description: "Compact countertop unit." },
-      { name: "Mini Refrigerator – 3.2 cu ft", price: 139, description: "Energy Star rated, quiet operation." },
-      { name: "All-in-One Washer/Dryer Combo", price: 599, description: "Space-saving unit for shared facilities." },
+      product("led-television", "32in LED Television", 179, "HD display for common rooms and units.", "applianceFlat", "#16181c"),
+      product("microwave", "Microwave – 0.9 cu ft", 89, "Compact countertop unit.", "applianceCube", "#23262b"),
+      product("mini-refrigerator", "Mini Refrigerator – 3.2 cu ft", 139, "Energy Star rated, quiet operation.", "applianceTall", "#8a93a3", { scale: [0.75, 1.2, 0.7] }),
+      product("washer-dryer-combo", "All-in-One Washer/Dryer Combo", 599, "Space-saving unit for shared facilities.", "applianceTall", "#d4d8df", { scale: [0.85, 1.5, 0.75] }),
     ],
   },
   {
@@ -119,10 +146,10 @@ export const CATEGORIES: Category[] = [
     icon: Shirt,
     description: "Bulk linen packages rated for high-turnover institutional laundering.",
     products: [
-      { name: "Twin Linen Set (Sheets, Pillow, Blanket)", price: 38, description: "Commercial-wash rated fabric." },
-      { name: "Queen Linen Set", price: 52, description: "Includes fitted sheet, flat sheet, pillowcases." },
-      { name: "Bath Towel Bundle (Set of 6)", price: 29, description: "Quick-dry, high-absorbency cotton blend." },
-      { name: "Mattress Protector – Waterproof", price: 19, description: "Noiseless, vinyl-free barrier layer." },
+      product("twin-linen-set", "Twin Linen Set (Sheets, Pillow, Blanket)", 38, "Commercial-wash rated fabric.", "stack", "#c98a3e"),
+      product("queen-linen-set", "Queen Linen Set", 52, "Includes fitted sheet, flat sheet, pillowcases.", "stack", "#6b7280"),
+      product("bath-towel-bundle", "Bath Towel Bundle (Set of 6)", 29, "Quick-dry, high-absorbency cotton blend.", "stack", "#e0a35c"),
+      product("mattress-protector", "Mattress Protector – Waterproof", 19, "Noiseless, vinyl-free barrier layer.", "stack", "#8a93a3"),
     ],
   },
   {
@@ -131,10 +158,10 @@ export const CATEGORIES: Category[] = [
     icon: Lamp,
     description: "Kitchen and household essentials for move-in-ready units.",
     products: [
-      { name: "12-Piece Cookware Set", price: 59, description: "Non-stick, dishwasher safe." },
-      { name: "Dinnerware Set – Service for 4", price: 34, description: "Stackable, chip-resistant stoneware." },
-      { name: "Trash Can – 13 Gallon", price: 22, description: "Step-open lid, odor-sealing." },
-      { name: "Move-In Essentials Kit", price: 75, description: "Cookware, dinnerware, and basics bundled." },
+      product("cookware-set", "12-Piece Cookware Set", 59, "Non-stick, dishwasher safe.", "stack", "#374151"),
+      product("dinnerware-set", "Dinnerware Set – Service for 4", 34, "Stackable, chip-resistant stoneware.", "stack", "#f4f1ec"),
+      product("trash-can", "Trash Can – 13 Gallon", 22, "Step-open lid, odor-sealing.", "bin", "#4b5563"),
+      product("move-in-essentials-kit", "Move-In Essentials Kit", 75, "Cookware, dinnerware, and basics bundled.", "stack", "#c98a3e"),
     ],
   },
   {
@@ -143,10 +170,10 @@ export const CATEGORIES: Category[] = [
     icon: Lock,
     description: "Door hardware and unit-level security fixtures for institutional facilities.",
     products: [
-      { name: "Keyless Entry Door Lock", price: 129, description: "Keypad entry, audit-trail logging." },
-      { name: "Security Door Lockbox", price: 69, description: "Heavy-gauge steel, pry-resistant." },
-      { name: "Window Security Film Kit", price: 45, description: "Shatter-resistant, covers one standard window." },
-      { name: "Unit Smoke & CO Detector", price: 34, description: "Dual-sensor, 10-year battery." },
+      product("keyless-entry-lock", "Keyless Entry Door Lock", 129, "Keypad entry, audit-trail logging.", "panel", "#23262b"),
+      product("security-door-lockbox", "Security Door Lockbox", 69, "Heavy-gauge steel, pry-resistant.", "panel", "#4b5563"),
+      product("window-security-film", "Window Security Film Kit", 45, "Shatter-resistant, covers one standard window.", "panel", "#8a93a3"),
+      product("smoke-co-detector", "Unit Smoke & CO Detector", 34, "Dual-sensor, 10-year battery.", "panel", "#f4f1ec", { round: true }),
     ],
   },
   {
@@ -155,10 +182,10 @@ export const CATEGORIES: Category[] = [
     icon: SprayCan,
     description: "Facility-wide cleaning supplies and maintenance consumables.",
     products: [
-      { name: "Commercial Cleaning Cart", price: 189, description: "Multi-shelf, rolls through standard doorways." },
-      { name: "Janitorial Supply Starter Kit", price: 99, description: "Core supplies for one facility wing." },
-      { name: "Microfiber Mop & Bucket System", price: 54, description: "Wringer bucket, washable mop heads." },
-      { name: "Bulk Trash Liners (Case of 200)", price: 39, description: "Heavy-duty, tear-resistant." },
+      product("cleaning-cart", "Commercial Cleaning Cart", 189, "Multi-shelf, rolls through standard doorways.", "cart", "#4b5563"),
+      product("janitorial-supply-kit", "Janitorial Supply Starter Kit", 99, "Core supplies for one facility wing.", "stack", "#6b7280"),
+      product("mop-bucket-system", "Microfiber Mop & Bucket System", 54, "Wringer bucket, washable mop heads.", "cart", "#c98a3e", { scale: [0.7, 0.7, 0.7] }),
+      product("bulk-trash-liners", "Bulk Trash Liners (Case of 200)", 39, "Heavy-duty, tear-resistant.", "stack", "#23262b"),
     ],
   },
   {
@@ -167,10 +194,10 @@ export const CATEGORIES: Category[] = [
     icon: Tag,
     description: "Discounted overstock and open-box furniture, while supplies last.",
     products: [
-      { name: "Overstock Dining Chair (Assorted)", price: 49, description: "Mixed finishes, limited quantities." },
-      { name: "Open-Box Sectional – As-Is", price: 399, description: "Minor cosmetic wear, fully functional." },
-      { name: "Clearance Dresser – Floor Model", price: 179, description: "Display unit, small surface marks." },
-      { name: "Assorted Lamp Clearance Bundle", price: 25, description: "Mixed styles while supplies last." },
+      product("overstock-dining-chair", "Overstock Dining Chair (Assorted)", 49, "Mixed finishes, limited quantities.", "chair", "#8a5a34"),
+      product("open-box-sectional", "Open-Box Sectional – As-Is", 399, "Minor cosmetic wear, fully functional.", "sofa", "#6b7280"),
+      product("clearance-dresser", "Clearance Dresser – Floor Model", 179, "Display unit, small surface marks.", "dresser", "#6b4226", { scale: [1.0, 1.0, 0.55] }),
+      product("lamp-clearance-bundle", "Assorted Lamp Clearance Bundle", 25, "Mixed styles while supplies last.", "lamp", "#e0a35c"),
     ],
   },
 ];

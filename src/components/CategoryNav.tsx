@@ -13,7 +13,7 @@ export function CategoryNav() {
       aria-label="Product categories"
       className="sticky top-[72px] z-30 border-b border-slate-200/10 bg-charcoal-900/80 backdrop-blur"
     >
-      <div className="mx-auto flex max-w-7xl gap-1 overflow-x-auto px-6 py-2 sm:px-10">
+      <div className="scrollbar-hide mx-auto flex max-w-7xl gap-1 overflow-x-auto px-6 py-2 sm:px-10">
         {CATEGORIES.map((category) => {
           const href = `/categories/${category.slug}`;
           const active = pathname === href;

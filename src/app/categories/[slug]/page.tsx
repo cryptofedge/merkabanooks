@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import { CATEGORIES, getCategory } from "@/lib/categories";
-import { formatCurrency } from "@/lib/quote-data";
 import { SITE_NAME } from "@/lib/site";
+import { ProductGrid } from "@/components/ProductGrid";
 
 interface CategoryPageProps {
   params: Promise<{ slug: string }>;
@@ -68,30 +68,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
         </div>
       </div>
 
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-        {category.products.map((product) => (
-          <div key={product.name} className="glass-panel flex flex-col overflow-hidden rounded-2xl">
-            <div className="relative h-32 w-full">
-              <Image src={imageSrc} alt={product.name} fill sizes="(min-width: 1024px) 25vw, 50vw" className="object-cover" />
-            </div>
-            <div className="flex flex-1 flex-col p-5">
-              <h3 className="text-sm font-semibold text-slate-200">{product.name}</h3>
-              <p className="mt-1 flex-1 text-xs text-slate-400">{product.description}</p>
-              <div className="mt-4 flex items-center justify-between">
-                <span className="font-display text-lg text-amber-300">
-                  {formatCurrency(product.price)}
-                </span>
-                <Link
-                  href="/#quote"
-                  className="rounded-full border border-amber-400/40 px-3 py-1.5 text-xs font-medium text-amber-300 transition-colors hover:bg-amber-400/10"
-                >
-                  Get a Quote
-                </Link>
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
+      <ProductGrid products={category.products} />
     </div>
   );
 }

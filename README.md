@@ -31,22 +31,29 @@ Open [http://localhost:3000](http://localhost:3000).
 ```
 src/
   app/
-    page.tsx          # composes every section
-    api/quote/route.ts # RFQ submission endpoint (stub — see below)
+    page.tsx              # composes every home-page section
+    api/quote/route.ts    # RFQ submission endpoint
+    categories/           # /categories (index) and /categories/[slug] (detail)
   components/
     HeroCinematic.tsx       # video background, parallax, split-text headline
-    Scene3D.tsx              # R3F canvas: fallback mesh / GLTF, hotspots, finish color
+    Scene3D.tsx              # home-page R3F canvas: fallback mesh / GLTF, hotspots, finish color
     ProductConfigurator.tsx  # wraps Scene3D with finish switcher + low-power fallback
     SectorShowcase.tsx       # dual-sector tabbed showcase
     ScrollExperience.tsx     # pinned "blueprint to furnished" scroll sequence
     QuoteCalculator.tsx      # bulk RFQ / facility package calculator + modal
+    CategoryNav.tsx          # sticky category tab bar (on /categories/* routes)
+    ProductGrid.tsx          # per-product 3D viewer grid + low-power photo fallback
+    ProductScene3D.tsx       # lightweight per-product R3F canvas (drag-to-orbit)
+    product-shapes.tsx       # procedural 3D archetypes (chair, table, bed, ...)
     SiteHeader.tsx / SiteFooter.tsx
   lib/
+    categories.ts      # category + product data (pricing, 3D shape, images)
     quote-data.ts      # room types, grades, add-ons, pricing logic
     utils.ts            # `cn()` class helper
 public/
-  videos/README.md     # hero video spec + ffmpeg compression commands
-  models/README.md     # GLTF/GLB model spec + wiring instructions
+  videos/README.md       # hero video spec + ffmpeg compression commands
+  models/README.md       # GLTF/GLB model spec + wiring instructions (home-page viewer)
+  products/README.md     # category + per-product photo sourcing
 ```
 
 ## Asset pipeline (before launch)

@@ -65,6 +65,16 @@ body {
     text-wrap: balance;
   }
 
+  /* Scrollable row with no visible scrollbar (drag/touch/arrow-key scroll still works) */
+  .scrollbar-hide {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
   /* Animated gradient border, used behind CTA buttons */
   .btn-gradient-border {
     position: relative;
