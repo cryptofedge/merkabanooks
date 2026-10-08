@@ -1,5 +1,6 @@
 import type { SecurityCategory } from "./types";
 import { ngvjCategory } from "./ngvj";
+import { ngz3825tCategory } from "./ngz-3825t";
 import { audioProtectionCategory } from "./audio-protection";
 
 function stub(
@@ -28,13 +29,7 @@ export const SECURITY_CATEGORIES: SecurityCategory[] = [
     "Dual-energy CT luggage and object screening with 3D color imaging and automatic explosives/narcotics detection.",
     4
   ),
-  stub(
-    "ngz-3825t",
-    "Multi-Energy X-Ray Inspection",
-    "Multi-Energy X-Ray",
-    "Compact multi-energy X-ray system with real-time AI threat recognition for mail, parcels and bags.",
-    1
-  ),
+  ngz3825tCategory,
   stub(
     "ngpx",
     "Portable X-Ray Inspection",

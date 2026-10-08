@@ -3,14 +3,14 @@
 Full catalog has **~116 products across 14 categories**. Status below —
 pick up any "pending" category by following the pattern in `ngvj.ts`.
 
-**Live now:** `/security` (hub) + `/security/ngvj` (14 products, 4 tiers) + `/security/audio-protection` (3 units, 1 tier)
+**Live now:** `/security` (hub) + `/security/ngvj` (14 products, 4 tiers) + `/security/audio-protection` (3 units, 1 tier) + `/security/ngz-3825t` (1 unit, 1 tier)
 
 | # | Category (slug) | Products | Status | Catalog source pages |
 |---|---|---|---|---|
 | 1 | Compact X-Ray Inspection (`ngz`) | 5 | ⏳ pending — **images need fixing first, see below** | 4–13 |
 | 2 | NGVJ Security Screening Series (`ngvj`) | 14 | ✅ **done** | 14–20 |
 | 3 | Fast CT Inspection (`ngts-ct`) | 4 | ⏳ pending | 21–28 |
-| 4 | Multi-Energy X-Ray Inspection (`ngz-3825t`) | 1 | ⏳ pending | 29–32 |
+| 4 | Multi-Energy X-Ray Inspection (`ngz-3825t`) | 1 | ✅ **done** | 29–32 |
 | 5 | Portable X-Ray Inspection (`ngpx`) | 9 | ⏳ pending | 33–44 |
 | 6 | Walk-Through Metal Detectors (`nghwt`) | 12 | ⏳ pending | 45–58 |
 | 7 | Handheld Metal Detectors (`nghh`) | 16 | ⏳ pending | 59–65 |
