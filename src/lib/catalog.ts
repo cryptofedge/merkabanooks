@@ -13,6 +13,7 @@ import {
   UtensilsCrossed,
   type LucideIcon,
 } from "lucide-react";
+import { cacheLife } from "next/cache";
 import { CATEGORIES as STATIC_CATEGORIES, type Category, type Product } from "@/lib/categories";
 import { isSupabaseConfigured } from "@/lib/supabase/config";
 import { createPublicClient } from "@/lib/supabase/public";
@@ -68,7 +69,13 @@ function mapProduct(row: ProductRow): Product {
   };
 }
 
-async function fetchFromSupabase(): Promise<Category[] | null> {
+// Raw DB rows only (no icon component references — those aren't serializable
+// across a "use cache" boundary) so the network round-trip to Supabase can be
+// cached and contribute to the prerendered static shell under Cache Components.
+async function fetchCategoryRows(): Promise<{ categoryRows: CategoryRow[]; productRows: ProductRow[] } | null> {
+  "use cache";
+  cacheLife("minutes");
+
   if (!isSupabaseConfigured()) return null;
 
   const supabase = createPublicClient();
@@ -83,12 +90,22 @@ async function fetchFromSupabase(): Promise<Category[] | null> {
     return null;
   }
 
-  return (categoryRows as CategoryRow[]).map((row) => ({
+  return {
+    categoryRows: categoryRows as CategoryRow[],
+    productRows: (productRows ?? []) as ProductRow[],
+  };
+}
+
+async function fetchFromSupabase(): Promise<Category[] | null> {
+  const rows = await fetchCategoryRows();
+  if (!rows) return null;
+
+  return rows.categoryRows.map((row) => ({
     slug: row.slug,
     label: row.label,
     description: row.description,
     icon: ICONS[row.icon] ?? Tag,
-    products: (productRows as ProductRow[])
+    products: rows.productRows
       .filter((p) => p.category_slug === row.slug)
       .map(mapProduct),
   }));
