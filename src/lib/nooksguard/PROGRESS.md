@@ -3,7 +3,7 @@
 Full catalog has **~116 products across 14 categories**. Status below —
 pick up any "pending" category by following the pattern in `ngvj.ts`.
 
-**Live now:** `/security` (hub) + `/security/ngvj` (14 products, 4 tiers) + `/security/audio-protection` (3 units, 1 tier) + `/security/ngz-3825t` (1 unit, 1 tier)
+**Live now:** `/security` (hub) + `/security/ngvj` (14 products, 4 tiers) + `/security/audio-protection` (3 units, 1 tier) + `/security/ngz-3825t` (1 unit, 1 tier) + `/security/ngmw` (2 units, 1 tier)
 
 | # | Category (slug) | Products | Status | Catalog source pages |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pick up any "pending" category by following the pattern in `ngvj.ts`.
 | 5 | Portable X-Ray Inspection (`ngpx`) | 9 | ⏳ pending | 33–44 |
 | 6 | Walk-Through Metal Detectors (`nghwt`) | 12 | ⏳ pending | 45–58 |
 | 7 | Handheld Metal Detectors (`nghh`) | 16 | ⏳ pending | 59–65 |
-| 8 | Millimeter Wave Body Scanners (`ngmw`) | 2 | ⏳ pending | 66–69 |
+| 8 | Millimeter Wave Body Scanners (`ngmw`) | 2 | ✅ **done** | 66–69 |
 | 9 | Foot & Shoe Security Screening (`ngfs`) | 4 | ⏳ pending | 70–71 |
 | 10 | Under Vehicle Surveillance Systems (`nguv`) | 13 | ⏳ pending | 72–79 |
 | 11 | Security & Threat Detection (`threat-detection`) | 11 | ⏳ pending | 80–84 |

@@ -2,6 +2,7 @@ import type { SecurityCategory } from "./types";
 import { ngvjCategory } from "./ngvj";
 import { ngz3825tCategory } from "./ngz-3825t";
 import { audioProtectionCategory } from "./audio-protection";
+import { ngmwCategory } from "./ngmw";
 
 function stub(
   slug: string,
@@ -51,13 +52,7 @@ export const SECURITY_CATEGORIES: SecurityCategory[] = [
     "Sixteen handheld wand configurations across four tiers, from ultra-sensitive flagship to cost-efficient mass deployment.",
     16
   ),
-  stub(
-    "ngmw",
-    "Millimeter Wave Body Scanners",
-    "Body Scanners",
-    "Non-contact AI-assisted human body screening using 80GHz millimeter wave imaging.",
-    2
-  ),
+  ngmwCategory,
   stub(
     "ngfs",
     "Foot & Shoe Security Screening",
