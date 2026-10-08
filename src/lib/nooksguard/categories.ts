@@ -3,6 +3,7 @@ import { ngvjCategory } from "./ngvj";
 import { ngz3825tCategory } from "./ngz-3825t";
 import { audioProtectionCategory } from "./audio-protection";
 import { ngmwCategory } from "./ngmw";
+import { ngfsCategory } from "./ngfs";
 
 function stub(
   slug: string,
@@ -53,13 +54,7 @@ export const SECURITY_CATEGORIES: SecurityCategory[] = [
     16
   ),
   ngmwCategory,
-  stub(
-    "ngfs",
-    "Foot & Shoe Security Screening",
-    "Foot Screening",
-    "X-ray and induction-based foot/shoe scanners for high-flux checkpoints.",
-    4
-  ),
+  ngfsCategory,
   stub(
     "nguv",
     "Under Vehicle Surveillance Systems",

@@ -3,7 +3,7 @@
 Full catalog has **~116 products across 14 categories**. Status below —
 pick up any "pending" category by following the pattern in `ngvj.ts`.
 
-**Live now:** `/security` (hub) + `/security/ngvj` (14 products, 4 tiers) + `/security/audio-protection` (3 units, 1 tier) + `/security/ngz-3825t` (1 unit, 1 tier) + `/security/ngmw` (2 units, 1 tier)
+**Live now:** `/security` (hub) + `/security/ngvj` (14 products, 4 tiers) + `/security/audio-protection` (3 units, 1 tier) + `/security/ngz-3825t` (1 unit, 1 tier) + `/security/ngmw` (2 units, 1 tier) + `/security/ngfs` (4 units, 2 tiers)
 
 | # | Category (slug) | Products | Status | Catalog source pages |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pick up any "pending" category by following the pattern in `ngvj.ts`.
 | 6 | Walk-Through Metal Detectors (`nghwt`) | 12 | ⏳ pending | 45–58 |
 | 7 | Handheld Metal Detectors (`nghh`) | 16 | ⏳ pending | 59–65 |
 | 8 | Millimeter Wave Body Scanners (`ngmw`) | 2 | ✅ **done** | 66–69 |
-| 9 | Foot & Shoe Security Screening (`ngfs`) | 4 | ⏳ pending | 70–71 |
+| 9 | Foot & Shoe Security Screening (`ngfs`) | 4 | ✅ **done** | 70–71 |
 | 10 | Under Vehicle Surveillance Systems (`nguv`) | 13 | ⏳ pending | 72–79 |
 | 11 | Security & Threat Detection (`threat-detection`) | 11 | ⏳ pending | 80–84 |
 | 12 | TSCM & Counter-Surveillance (`tscm`) | 20 | ⏳ pending | 85–92 |
@@ -23,6 +23,14 @@ pick up any "pending" category by following the pattern in `ngvj.ts`.
 | 14 | Anti-Recording / Audio Protection (`audio-protection`) | 3 | ✅ **done** | 97–98 |
 
 Page 99 is the closing compliance/contact page (no products).
+
+**Recommended next pick (by size, smallest remaining first):** Signal Jamming
+Solutions (`ngjm`, 2 products, pages 93–96) or Fast CT Inspection (`ngts-ct`,
+4 products, pages 21–28 — same 2-page-per-product format as the already-built
+`ngz-3825t`). After those, Portable X-Ray Inspection (`ngpx`, 9 products,
+pages 33–44) is the next reasonable single-session size. The larger
+categories (`nghwt` 12, `nguv` 13, `nghh` 16, `tscm` 20) and the
+watermark-blocked `ngz` (5, see below) are better split across sessions.
 
 ## How to add a category (the pattern `ngvj.ts` already proves out)
 
