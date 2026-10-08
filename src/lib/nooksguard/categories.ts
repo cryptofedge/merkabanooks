@@ -1,5 +1,6 @@
 import type { SecurityCategory } from "./types";
 import { ngvjCategory } from "./ngvj";
+import { audioProtectionCategory } from "./audio-protection";
 
 function stub(
   slug: string,
@@ -97,13 +98,7 @@ export const SECURITY_CATEGORIES: SecurityCategory[] = [
     "SDR-based indoor and portable full-band signal jammers for confidential meetings and EOD operations.",
     2
   ),
-  stub(
-    "audio-protection",
-    "Anti-Recording / Audio Protection",
-    "Audio Protection",
-    "Networked ultrasonic audio jamming system for conference room anti-recording protection.",
-    3
-  ),
+  audioProtectionCategory,
 ];
 
 export function getSecurityCategory(slug: string): SecurityCategory | undefined {

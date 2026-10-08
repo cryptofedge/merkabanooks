@@ -3,7 +3,7 @@
 Full catalog has **~116 products across 14 categories**. Status below —
 pick up any "pending" category by following the pattern in `ngvj.ts`.
 
-**Live now:** `/security` (hub) + `/security/ngvj` (full, 14 products, 4 tiers)
+**Live now:** `/security` (hub) + `/security/ngvj` (14 products, 4 tiers) + `/security/audio-protection` (3 units, 1 tier)
 
 | # | Category (slug) | Products | Status | Catalog source pages |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pick up any "pending" category by following the pattern in `ngvj.ts`.
 | 11 | Security & Threat Detection (`threat-detection`) | 11 | ⏳ pending | 80–84 |
 | 12 | TSCM & Counter-Surveillance (`tscm`) | 20 | ⏳ pending | 85–92 |
 | 13 | Signal Jamming Solutions (`ngjm`) | 2 | ⏳ pending | 93–96 |
-| 14 | Anti-Recording / Audio Protection (`audio-protection`) | 3 | ⏳ pending | 97–98 |
+| 14 | Anti-Recording / Audio Protection (`audio-protection`) | 3 | ✅ **done** | 97–98 |
 
 Page 99 is the closing compliance/contact page (no products).
 
